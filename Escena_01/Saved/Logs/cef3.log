@@ -53,3 +53,12 @@
 [0810/095355.524:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0810/095438.162:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0810/095438.162:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0824/145705.027:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0824/145758.034:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 33
+[0824/145758.098:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0824/145758.098:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0824/145758.098:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0824/145758.098:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0824/145812.110:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Dobles Digitales/Sinfonia/Escena_01/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Dobles Digitales/Sinfonia/Escena_01/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0824/145812.112:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Dobles Digitales/Sinfonia/Escena_01/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Dobles Digitales/Sinfonia/Escena_01/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0824/145822.911:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 39
