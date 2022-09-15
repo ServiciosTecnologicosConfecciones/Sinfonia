@@ -1,0 +1,1339 @@
+﻿Log file open, 09/15/22 08:15:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11340)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Escena_01
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19505902"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19505902+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\git\Nueva carpeta\GitHub_Repositorio_Sinfonia\Sinfonia\Escena_01\Escena_01.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Xeon(R) W-2223 CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2e77aa684982f29f23fc9487d451814d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.800694
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5AD9698448E2E2ECF4AEA2B6C6BBB04B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.08 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicHairImporter
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin HairModelingToolset
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/HairModelingToolset/Content/' mounted to '/HairModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19505902
+LogInit: Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) (), CPU: Intel(R) Xeon(R) W-2223 CPU @ 3.60GHz, GPU: Radeon Pro WX 7100
+LogInit: Compiled (64-bit): Mar 25 2022 04:05:33
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/unreal 5 instalacion/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.15-13.15.41:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.15-13.15.41:096][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.15-13.15.41:096][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.15-13.15.41:096][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.15-13.15.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.15-13.15.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.15-13.15.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.15-13.15.41:156][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.15-13.15.41:157][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.15-13.15.41:257][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.15-13.15.41:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.15-13.15.41:281][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.15-13.15.41:281][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.15-13.15.41:522][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.15-13.15.41:522][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.15-13.15.42:008][  0]LogD3D12RHI: Found D3D12 adapter 0: Radeon Pro WX 7100 (Max supported Feature Level 12_0, shader model 6.4)
+[2022.09.15-13.15.42:008][  0]LogD3D12RHI: Adapter has 8172MB of dedicated video memory, 0MB of dedicated system memory, and 32627MB of shared system memory, 2 output[s]
+[2022.09.15-13.15.42:028][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.15-13.15.42:028][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32627MB of shared system memory, 0 output[s]
+[2022.09.15-13.15.42:029][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.15-13.15.42:029][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.15-13.15.42:050][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.15-13.15.42:093][  0]LogHAL: Display: Platform has ~ 64 GB [68425093120 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.15-13.15.42:094][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.15-13.15.42:094][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.15-13.15.42:094][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.15-13.15.42:110][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.15-13.15.42:110][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.15-13.15.42:128][  0]LogInit: Computer: MEDAPRCSGFSD311
+[2022.09.15-13.15.42:154][  0]LogInit: User: Sena
+[2022.09.15-13.15.42:154][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.15-13.15.42:155][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.15-13.15.42:155][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2022.09.15-13.15.42:155][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.15-13.15.42:155][  0]LogMemory: Process Physical Memory: 253.51 MB used, 266.63 MB peak
+[2022.09.15-13.15.42:155][  0]LogMemory: Process Virtual Memory: 194.52 MB used, 194.52 MB peak
+[2022.09.15-13.15.42:155][  0]LogMemory: Physical Memory: 6479.41 MB used,  58775.84 MB free, 65255.25 MB total
+[2022.09.15-13.15.42:155][  0]LogMemory: Virtual Memory: 8664.32 MB used,  107790.94 MB free, 116455.25 MB total
+[2022.09.15-13.15.42:155][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.15-13.15.42:177][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.15-13.15.42:582][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.15-13.15.42:670][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.09.15-13.15.42:670][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.09.15-13.15.43:243][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.15-13.15.43:475][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.15-13.15.43:475][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.09.15-13.15.43:475][  0]LogWindowsTextInputMethodSystem:   - Español (Latinoamérica) - (Keyboard).
+[2022.09.15-13.15.43:475][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.09.15-13.15.43:832][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.15-13.15.43:832][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.15-13.15.44:534][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.15-13.15.44:534][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.15-13.15.44:670][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.09.15-13.15.44:809][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.15-13.15.44:811][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.15-13.15.44:817][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.15-13.15.44:862][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.15-13.15.44:862][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.15-13.15.45:002][  0]LogD3D12RHI:     GPU DeviceId: 0x67c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.15-13.15.45:002][  0]LogWindows: EnumDisplayDevices:
+[2022.09.15-13.15.45:002][  0]LogWindows:    0. 'Radeon Pro WX 7100' (P:1 D:1)
+[2022.09.15-13.15.45:002][  0]LogWindows:    1. 'Radeon Pro WX 7100' (P:0 D:1)
+[2022.09.15-13.15.45:002][  0]LogWindows:    2. 'Radeon Pro WX 7100' (P:0 D:0)
+[2022.09.15-13.15.45:003][  0]LogWindows:    3. 'Radeon Pro WX 7100' (P:0 D:0)
+[2022.09.15-13.15.45:003][  0]LogWindows:    4. 'Radeon Pro WX 7100' (P:0 D:0)
+[2022.09.15-13.15.45:003][  0]LogWindows:    5. 'Radeon Pro WX 7100' (P:0 D:0)
+[2022.09.15-13.15.45:004][  0]LogWindows:    6. 'Radeon Pro WX 7100' (P:0 D:0)
+[2022.09.15-13.15.45:004][  0]LogWindows:    7. 'Radeon Pro WX 7100' (P:0 D:0)
+[2022.09.15-13.15.45:004][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2022.09.15-13.15.45:004][  0]LogD3D12RHI:     Adapter Name: Radeon Pro WX 7100
+[2022.09.15-13.15.45:004][  0]LogD3D12RHI:   Driver Version: 26.20.11002.7001 (internal:26.20.11002.7001, unified:26.20.11002.7001)
+[2022.09.15-13.15.45:004][  0]LogD3D12RHI:      Driver Date: 5-9-2019
+[2022.09.15-13.15.45:005][  0]LogRHI: Texture pool is 4664 MB (70% of 6663 MB)
+[2022.09.15-13.15.45:005][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.15-13.15.45:005][  0]LogD3D12RHI: RHI does not have support for 64 bit atomics
+[2022.09.15-13.15.49:766][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the AMD graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.amd.com/en/support
+
+Radeon Pro WX 7100
+Installed: 26.20.11002.7001
+Recommended: 22.2.2
+[2022.09.15-13.15.49:886][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Escena_01.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/TurnkeyReport_0.log" -log="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/TurnkeyLog_0.log" -project="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Escena_01.uproject"  -platform=all'
+[2022.09.15-13.15.49:887][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/unreal 5 instalacion/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Escena_01.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/TurnkeyReport_0.log" -log="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/TurnkeyLog_0.log" -project="D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Escena_01.uproject"  -platform=all" ]
+[2022.09.15-13.15.50:136][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.09.15-13.15.50:136][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.15-13.15.50:236][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.15-13.15.50:236][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.15-13.15.50:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.15-13.15.50:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.15-13.15.50:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.15-13.15.50:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.15-13.15.50:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.15-13.15.50:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.15-13.15.50:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.15-13.15.50:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.15-13.15.50:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.15-13.15.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.15-13.15.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.15-13.15.50:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.15-13.15.50:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.15-13.15.50:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.15-13.15.50:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.15-13.15.50:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.15-13.15.50:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.15-13.15.50:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.15-13.15.50:542][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.15-13.15.50:766][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.15-13.15.50:773][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.15-13.15.50:774][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.15-13.15.50:774][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.15-13.15.50:774][  0]LogTargetPlatformManager:   PCM
+[2022.09.15-13.15.50:807][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.15-13.15.50:807][  0]LogTargetPlatformManager:   BINKA
+[2022.09.15-13.15.50:807][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.15-13.15.50:807][  0]LogTargetPlatformManager:   OGG
+[2022.09.15-13.15.50:807][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.15-13.15.50:807][  0]LogTargetPlatformManager:   OPUS
+[2022.09.15-13.15.51:495][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.15-13.15.51:539][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.15-13.15.51:702][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.15-13.15.51:712][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.15-13.15.51:881][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.15-13.15.51:904][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.15-13.15.51:949][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.15-13.15.51:950][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.15-13.15.52:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.15-13.15.52:007][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.15-13.15.52:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.15-13.15.52:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.15-13.15.52:145][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1091 MiB)
+[2022.09.15-13.15.52:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.15-13.15.52:146][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.15-13.15.52:161][  0]LogDerivedDataCache: Speed tests for C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.15-13.15.52:161][  0]LogDerivedDataCache: Display: Performance to C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=171.98MBs, RandomWriteSpeed=117.51MBs. Assigned SpeedClass 'Local'
+[2022.09.15-13.15.52:173][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.15-13.15.52:174][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.15-13.15.52:174][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.15-13.15.52:346][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.15-13.15.52:346][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.15-13.15.52:446][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Intermediate/Shaders/WorkingDirectory/11952/).
+[2022.09.15-13.15.52:446][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sena/AppData/Local/Temp/UnrealShaderWorkingDir/FF53231C44377E36ED8A22919F4342E9/'.
+[2022.09.15-13.15.52:470][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.15-13.15.52:470][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.09.15-13.15.59:059][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.15-13.15.59:120][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.15-13.15.59:738][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2022.09.15-13.16.00:153][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.15-13.16.06:825][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.15-13.16.06:914][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.15-13.16.07:256][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.15-13.16.07:256][  0]LogDeviceProfileManager: Active device profile: [00000540ADB17A80][00000540A26FA000 50] WindowsEditor
+[2022.09.15-13.16.07:256][  0]LogDeviceProfileManager: Profiles: [00000540ADB17540][000005409027C800 50] Windows, [00000540ADB17A80][00000540A26FA000 50] WindowsEditor, [00000540ADB15780][00000540A268A000 50] WindowsServer, [00000540ADB13800][00000540ADE30000 50] WindowsClient, [00000540ADB14440][00000540ADE35000 50] IOS, [00000540ADB139C0][00000540ADE37800 50] iPadAir2, [00000540ADB18340][00000540ADE3C800 50] IPadPro, [00000540ADB186C0][00000540ADE3A000 50] iPadAir3, [00000540ADB16740][00000540A2730000 50] iPadAir4, [00000540ADB18880][00000540ADE00000 50] iPadMini4, [00000540ADB13B80][00000540ADE05000 50] iPadMini5, [00000540ADB14980][00000540ADE07800 50] iPadMini6, [00000540ADB1AD40][00000540ADE32800 50] iPhone6S, [00000540ADB1B0C0][00000540ADE0C800 50] iPhone7, [00000540ADB1B440][00000540ADE0A000 50] iPodTouch7, [00000540ADB15940][00000540ADE10000 50] iPhone6SPlus, [00000540ADB1AB80][00000540ADE15000 50] iPhone7Plus, [00000540ADB16AC0][00000540ADE17800 50] iPhoneSE, [00000540ADB15B00][00000540ADE1A000 50] iPhone8, [00000540ADB15E80][00000540ADE1C800 50] iPhone8Plus, [00000540ADB1BB40][00000540ADE02800 50] iPhoneX, [00000540ADB19D80][00000540ADE90000 50] iPhoneXS, [00000540ADB13F00][00000540ADE95000 50] iPhoneXSMax, [00000540ADB16C80][00000540ADE97800 50] iPhoneXR, [00000540ADB15240][00000540ADE9A000 50] iPhone11, [00000540ADB1B7C0][00000540ADE9C800 50] iPhone11Pro, [00000540ADB16580][00000540ADE12800 50] iPhone11ProMax, [00000540ADB14600][00000540ADEA0000 50] iPhoneSE2, [00000540ADB15080][00000540ADEA5000 50] iPhone12Mini, [00000540ADB14EC0][00000540ADEA7800 50] iPhone12, [00000540ADB19F40][00000540ADEAA000 50] iPhone12Pro, [00000540ADB178C0][00000540ADEAC800 50] iPhone12ProMax, [00000540ADB1B280][00000540ADE92800 50] iPhone13Mini, [00000540ADB14280][00000540ADEB0000 50] iPhone13, [00000540ADB13100][00000540ADEB5000 50] iPhone13Pro, [00000540ADB1B980][00000540ADEB7800 50] iPhone13ProMax, [00000540ADB1AF00][00000540ADEBA000 50] iPadPro105, [00000540ADB15400][00000540ADEBC800 50] iPadPro129, [00000540ADB155C0][00000540ADEA2800 50] iPadPro97, [00000540ADB13480][00000540ADED0000 50] iPadPro2_129, [00000540ADB18C00][00000540ADED5000 50] iPad5, [00000540ADB18DC0][00000540ADED7800 50] iPad6, [00000540ADB14D00][00000540ADEDA000 50] iPad7, [00000540ADB16200][00000540ADEDC800 50] iPad8, [00000540ADB16E40][00000540ADEB2800 50] iPad9, [00000540ADB13D40][00000540ADEE0000 50] iPadPro11, [00000540ADB13640][00000540ADEE5000 50] iPadPro2_11, [00000540ADB18A40][00000540ADEE7800 50] iPadPro3_11, [00000540ADB1A480][00000540ADEEA000 50] iPadPro3_129, [00000540ADB1A2C0][00000540ADEEC800 50] iPadPro4_129, [00000540ADB16900][00000540ADED2800 50] iPadPro5_129, [00000540ADB171C0][00000540ADEF0000 50] AppleTV, [00000540ADB19BC0][00000540ADEF5000 50] AppleTV4K, [00000540ADB1A640][00000540ADEF7800 50] TVOS, [00000540ADB1D3C0][00000540ADEFC800 50] Mac, [00000540ADB1D740][00000540ADEFA000 50] MacEditor, [00000540ADB1A100][00000540ADEE2800 50] MacClient, [00000540ADB1B600][00000540ADF00000 50] MacServer, [00000540ADB1DC80][00000540ADF07800 50] Linux, [00000540ADB1E000][00000540ADF05000 50] LinuxEditor, [00000540ADB1C080][00000540ADF0A000 50] LinuxArm64Editor, [00000540ADB17FC0][00000540ADF0C800 50] LinuxArm64, [00000540ADB15CC0][00000540ADEF2800 50] LinuxClient, [00000540ADB1E1C0][00000540ADF10000 50] LinuxArm64Client, [00000540ADB1CCC0][00000540ADF15000 50] LinuxServer, [00000540ADB1D580][00000540ADF17800 50] LinuxArm64Server, [00000540ADB17000][00000540ADF1A000 50] Android, [00000540ADB1D200][00000540ADF1C800 50] Android_Preview_OpenGL, [00000540ADB140C0][00000540ADF02800 50] Android_Preview_Vulkan, [00000540ADB18180][00000540ADF20000 50] Android_Low, [00000540ADB19840][00000540ADF25000 50] Android_Mid, [00000540ADB1C780][00000540ADF27800 50] Android_High, [00000540ADB1C240][00000540ADF2A000 50] Android_Default, [00000540ADB17C40][00000540ADF2C800 50] Android_Adreno4xx, [00000540ADB1A9C0][00000540ADF12800 50] Android_Adreno5xx_Low, [00000540ADB1C5C0][00000540ADF30000 50] Android_Adreno5xx, [00000540ADB1DAC0][00000540ADF35000 50] Android_Adreno6xx, [00000540ADB1EA80][00000540ADF37800 50] Android_Adreno6xx_Vulkan, [00000540ADB18F80][00000540ADF3A000 50] Android_Adreno7xx, [00000540ADB16040][00000540ADF3C800 50] Android_Adreno7xx_Vulkan, [00000540ADB1C400][00000540ADF22800 50] Android_Mali_T6xx, [00000540ADB19A00][00000540ADF40000 50] Android_Mali_T7xx, [00000540ADB1C940][00000540ADF45000 50] Android_Mali_T8xx, [00000540ADB194C0][00000540ADF47800 50] Android_Mali_G71, [00000540ADB1E8C0][00000540ADF4A000 50] Android_Mali_G72, [00000540ADB1BD00][00000540ADF4C800 50] Android_Mali_G72_Vulkan, [00000540ADB163C0][00000540ADF32800 50] Android_Mali_G76, [00000540ADB1E700][00000540ADF50000 50] Android_Mali_G76_Vulkan, [00000540ADB1E540][00000540ADF55000 50] Android_Mali_G77, [00000540ADB1A800][00000540ADF57800 50] Android_Mali_G77_Vulkan, [00000540ADB14B40][00000540ADF5A000 50] Android_Mali_G78, [00000540ADB1D900][00000540ADF5C800 50] Android_Mali_G78_Vulkan, [00000540ADB1DE40][00000540ADF42800 50] Android_Mali_G710, [00000540ADB1CE80][00000540ADF60000 50] Android_Mali_G710_Vulkan, [00000540ADB1E380][00000540ADF65000 50] Android_Xclipse_920, [00000540ADB1BEC0][00000540ADF67800 50] Android_Xclipse_920_Vulkan, [00000540ADB1FDC0][00000540ADF6A000 50] Android_Vulkan_SM5, [00000540ADB1F500][00000540ADF6C800 50] Android_PowerVR_G6xxx, [00000540ADF801C0][00000540ADF52800 50] Android_PowerVR_GT7xxx, [00000540ADF82300][00000540ADF70000 50] Android_PowerVR_GE8xxx, [00000540ADF82140][00000540ADF75000 50] Android_PowerVR_GM9xxx, [00000540ADF81F80][00000540ADF77800 50] Android_PowerVR_GM9xxx_Vulkan, [00000540ADF81DC0][00000540ADF7A000 50] Android_TegraK1, [00000540ADF82BC0][00000540ADF7C800 50] Android_Unknown_Vulkan, [00000540ADF81A40][00000540ADF62800 50] Oculus_Quest, [00000540ADF82F40][00000540ADF90000 50] Oculus_Quest2, [00000540ADF80540][00000540ADF95000 50] HoloLens, 
+[2022.09.15-13.16.07:256][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.15-13.16.08:147][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.15-13.16.09:551][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.15-13.16.09:551][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.15-13.16.09:551][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.15-13.16.09:552][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.15-13.16.09:552][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.15-13.16.10:733][  0]LogNetVersion: Escena_01 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 16918009)
+[2022.09.15-13.16.13:163][  0]LogSlate: Border
+[2022.09.15-13.16.13:163][  0]LogSlate: BreadcrumbButton
+[2022.09.15-13.16.13:163][  0]LogSlate: Default
+[2022.09.15-13.16.13:163][  0]LogSlate: Icons.Save
+[2022.09.15-13.16.13:163][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.15-13.16.13:163][  0]LogSlate: ListView
+[2022.09.15-13.16.13:163][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.15-13.16.13:163][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.15-13.16.13:163][  0]LogSlate: TableView.DarkRow
+[2022.09.15-13.16.13:163][  0]LogSlate: TableView.Row
+[2022.09.15-13.16.13:163][  0]LogSlate: TreeView
+[2022.09.15-13.16.18:696][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.19:387][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.19:387][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.20:695][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.15-13.16.20:699][  0]LogUObjectAllocator: 5584240 out of 0 bytes used by permanent object pool.
+[2022.09.15-13.16.20:699][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.15-13.16.25:230][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 29F12E36417917DE71A9D4B2707D1556 | Instance: 7402269144D1FCF40713EE95549BFA8A (MEDAPRCSGFSD311-11952).
+[2022.09.15-13.16.25:920][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.15-13.16.25:939][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.15-13.16.26:121][  0]LogPython: Using Python 3.9.7
+[2022.09.15-13.16.28:254][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.28:264][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.28:299][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.28:326][  0]LogUProjectInfo: Found projects:
+[2022.09.15-13.16.31:146][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.15-13.16.31:304][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.15-13.16.31:456][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.15-13.16.31:456][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.15-13.16.31:950][  0]LogCollectionManager: Loaded 0 collections in 0.006572 seconds
+[2022.09.15-13.16.32:489][  0]LogFileCache: Scanning file cache for directory 'D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Collections/' took 0.01s
+[2022.09.15-13.16.32:489][  0]LogFileCache: Scanning file cache for directory 'D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Developers/Sena/Collections/' took 0.01s
+[2022.09.15-13.16.32:489][  0]LogFileCache: Scanning file cache for directory 'D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Collections/' took 0.01s
+[2022.09.15-13.16.34:678][  0]LogEngine: Initializing Engine...
+[2022.09.15-13.16.35:099][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.15-13.16.35:161][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.09.15-13.16.36:839][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.15-13.16.36:961][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-13.16.37:241][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-13.16.37:750][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.15-13.16.38:031][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.15-13.16.38:135][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.15-13.16.38:180][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.15-13.16.38:180][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.15-13.16.38:269][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.15-13.16.38:269][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.15-13.16.38:275][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.15-13.16.38:299][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.15-13.16.38:331][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.15-13.16.38:331][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.15-13.16.38:331][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.15-13.16.38:374][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.15-13.16.38:457][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2022.09.15-13.16.38:486][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.15-13.16.38:504][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.15-13.16.38:504][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.15-13.16.38:506][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.15-13.16.38:506][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.15-13.16.38:509][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.15-13.16.38:509][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.15-13.16.38:509][  0]LogInit: FAudioDevice initialized.
+[2022.09.15-13.16.38:510][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.15-13.16.38:510][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.15-13.16.38:510][  0]LogInit: Texture streaming: Enabled
+[2022.09.15-13.16.38:653][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19505902+++UE5+Release-5.0
+[2022.09.15-13.16.38:740][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.15-13.16.38:875][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.15-13.16.38:902][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.15-13.16.38:902][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.15-13.16.48:219][  0]LogLiveCoding: Display: First instance in process group "UE_Escena_01_0x45b46787", spawning console
+[2022.09.15-13.16.48:219][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.15-13.16.48:219][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.15-13.16.48:334][  0]LogInit: Transaction tracking system initialized
+[2022.09.15-13.16.49:133][  0]BlueprintLog: New page: Editor Load
+[2022.09.15-13.16.50:483][  0]LocalizationService: Localization service is disabled
+[2022.09.15-13.16.50:836][  0]TimingProfiler: Initialize
+[2022.09.15-13.16.50:837][  0]TimingProfiler: OnSessionChanged
+[2022.09.15-13.16.50:837][  0]LoadingProfiler: Initialize
+[2022.09.15-13.16.50:837][  0]LoadingProfiler: OnSessionChanged
+[2022.09.15-13.16.50:873][  0]NetworkingProfiler: Initialize
+[2022.09.15-13.16.50:882][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.15-13.16.50:882][  0]MemoryProfiler: Initialize
+[2022.09.15-13.16.50:882][  0]MemoryProfiler: OnSessionChanged
+[2022.09.15-13.16.56:983][  0]LogFileCache: Scanning file cache for directory 'D:/git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/' took 0.02s
+[2022.09.15-13.16.56:983][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.15-13.16.57:325][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.15-13.16.57:432][  0]SourceControl: Source control is disabled
+[2022.09.15-13.16.57:441][  0]LogUnrealEdMisc: Loading editor; pre map load, took 96.813
+[2022.09.15-13.16.57:487][  0]Cmd: MAP LOAD FILE="../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.15-13.16.57:488][  0]LogEditorServer: Warning: Can't find file '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2022.09.15-13.16.57:488][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.15-13.16.57:616][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.227ms to complete.
+[2022.09.15-13.16.57:616][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.157
+[2022.09.15-13.16.58:633][  0]LogUnrealEdMisc: Total Editor Startup Time, took 98.002
+[2022.09.15-13.16.58:633][  0]LogShaderCompilers: Display: ================================================
+[2022.09.15-13.16.58:633][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.15-13.16.58:633][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.15-13.16.58:660][  0]LogShaderCompilers: Display: ================================================
+[2022.09.15-13.16.59:118][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.15-13.16.59:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-13.16.59:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-13.16.59:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-13.16.59:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.15-13.17.00:042][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:043][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:053][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:054][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:068][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:069][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:116][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:116][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:122][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:122][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:146][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:146][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:149][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:149][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:155][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:155][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:157][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:157][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.00:159][  0]LogPakFile: Display: Mounted Pak file 'D:/unreal 5 instalacion/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.15-13.17.00:159][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.15-13.17.01:479][  0]LogSlate: Took 0.025234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.15-13.17.01:531][  0]LogSlate: Took 0.010363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.15-13.17.01:550][  0]LogSlate: Took 0.006406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.15-13.17.01:553][  0]LogSlate: Took 0.001047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.15-13.17.01:558][  0]LogSlate: Took 0.003327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.15-13.17.03:605][  0]LogStall: Startup...
+[2022.09.15-13.17.03:609][  0]LogStall: Startup complete.
+[2022.09.15-13.17.03:764][  0]LogLoad: (Engine Initialization) Total time: 103.14 seconds
+[2022.09.15-13.17.03:764][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.15-13.17.04:029][  0]LogAssetRegistry: Asset discovery search completed in 64.2490 seconds
+[2022.09.15-13.17.04:136][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.09.15-13.17.04:291][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.15-13.17.05:507][  2]LogSlate: Took 0.012778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.15-13.17.22:147][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.09.15-13.17.31:498][937]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Escena.Escena
+[2022.09.15-13.17.31:518][937]Cmd: MAP LOAD FILE="../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.15-13.17.31:519][937]LightingResults: New page: Lighting Build
+[2022.09.15-13.17.31:585][937]LoadErrors: New page: Loading map: Escena.umap
+[2022.09.15-13.17.31:586][937]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-13.17.31:660][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-13.17.31:691][937]MapCheck: New page: Map Check
+[2022.09.15-13.17.31:691][937]LightingResults: New page: Lighting Build
+[2022.09.15-13.17.31:703][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.15-13.17.31:917][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.09.15-13.17.32:107][937]LogWorld: UWorld::CleanupWorld for Escena, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-13.17.32:112][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-13.17.32:158][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.15-13.17.32:177][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.15-13.17.32:227][937]LogAudio: Display: Audio Device (ID: 1) registered with world 'Escena'.
+[2022.09.15-13.17.32:227][937]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.15-13.17.32:227][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-13.17.32:228][937]LogAIModule: Creating AISystem for world Escena
+[2022.09.15-13.17.33:044][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.15-13.17.33:120][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.15-13.17.33:140][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.15-13.17.33:140][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2022.09.15-13.17.33:140][937]LogFileHelpers: Loading map 'Escena' took 1.627
+[2022.09.15-13.17.58:755][524]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.519 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-13.56.54:475][370]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek HD Audio 2nd output (Realtek High Definition Audio), InstanceID=1
+[2022.09.15-13.56.54:475][370]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13780
+[2022.09.15-13.56.54:820][370]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{90f60cc6-9fec-4bec-8f72-8006b3ae824d}, Name=Realtek HD Audio 2nd output (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=45.52
+[2022.09.15-13.56.54:820][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.15-13.56.54:835][371]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.15-14.17.56:687][136]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.189 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-14.36.22:162][642]LogSlate: Window 'Foliage' being destroyed
+[2022.09.15-14.36.22:208][642]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.15-14.38.42:501][934]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.Begonia_final
+[2022.09.15-14.38.42:717][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-14.41.16:859][757]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final) ...
+[2022.09.15-14.41.17:238][757]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.007501 seconds
+[2022.09.15-14.41.17:422][757]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final
+[2022.09.15-14.41.17:422][757]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_finalFD4BC49740800931D05A3B9037DC3228.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.uasset'
+[2022.09.15-14.41.17:466][757]AssetCheck: New page: Asset Save: Begonia_final
+[2022.09.15-14.41.17:476][757]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.Begonia_final
+[2022.09.15-14.41.30:012][944]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final
+[2022.09.15-14.41.30:012][944]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_final730EEDD74B77A14CE77A6699D2919CEF.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.uasset'
+[2022.09.15-14.41.30:028][944]AssetCheck: New page: Asset Save: Begonia_final
+[2022.09.15-14.41.30:028][944]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.Begonia_final
+[2022.09.15-14.41.35:205][ 24]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final) ...
+[2022.09.15-14.41.56:907][354]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final) ...
+[2022.09.15-14.42.04:477][468]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final) ...
+[2022.09.15-14.42.10:442][558]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final) ...
+[2022.09.15-14.42.15:562][635]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final) ...
+[2022.09.15-14.42.40:397][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.09.15-14.42.40:418][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.024
+[2022.09.15-14.42.40:460][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final] ([1] browsable assets)...
+[2022.09.15-14.42.40:517][985]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.Begonia_final]
+[2022.09.15-14.42.40:518][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final]
+[2022.09.15-14.42.40:663][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final_Auto1
+[2022.09.15-14.42.40:663][985]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_final_Auto1D1FD763F43C72C5A28C4FA9A41F148BF.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final_Auto1.uasset'
+[2022.09.15-14.42.40:663][985]LogFileHelpers: Auto-saving content packages took 0.245
+[2022.09.15-14.54.37:895][ 87]LogSlate: Window 'Foliage' being destroyed
+[2022.09.15-14.54.37:906][ 87]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.15-14.56.33:669][816]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003.SM_Rock_003
+[2022.09.15-14.56.33:676][816]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-14.57.17:684][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.15-14.57.17:686][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.016
+[2022.09.15-14.57.17:733][521]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003] ([1] browsable assets)...
+[2022.09.15-14.57.17:767][521]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003.SM_Rock_003]
+[2022.09.15-14.57.17:768][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003]
+[2022.09.15-14.57.17:776][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003_Auto2
+[2022.09.15-14.57.17:782][521]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_003_Auto236B93A064EC34124CEBF60A626D0D022.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003_Auto2.uasset'
+[2022.09.15-14.57.17:783][521]LogFileHelpers: Auto-saving content packages took 0.097
+[2022.09.15-15.13.03:593][939]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003) ...
+[2022.09.15-15.13.35:597][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.15-15.13.35:599][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.018
+[2022.09.15-15.13.35:600][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003] ([1] browsable assets)...
+[2022.09.15-15.13.35:619][659]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003.SM_Rock_003]
+[2022.09.15-15.13.35:619][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003]
+[2022.09.15-15.13.35:626][659]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003_Auto3
+[2022.09.15-15.13.35:626][659]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_003_Auto3F46BA8F542402961DF0DC4AE6CFF9DF5.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003_Auto3.uasset'
+[2022.09.15-15.13.35:627][659]LogFileHelpers: Auto-saving content packages took 0.028
+[2022.09.15-15.16.20:128][ 82]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003
+[2022.09.15-15.16.20:129][ 82]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_003B05674584FA715B0D612468921983142.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/SM_Rock_003.uasset'
+[2022.09.15-15.16.20:142][ 82]AssetCheck: New page: Asset Save: SM_Rock_003
+[2022.09.15-15.16.20:142][ 82]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_003.SM_Rock_003
+[2022.09.15-15.16.21:514][111]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-15.16.21:515][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-15.16.23:499][161]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final
+[2022.09.15-15.16.23:500][161]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_final0D2B4A114B5DC1C0A4E4F799468AE034.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.uasset'
+[2022.09.15-15.16.23:512][161]AssetCheck: New page: Asset Save: Begonia_final
+[2022.09.15-15.16.23:512][161]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_final.Begonia_final
+[2022.09.15-15.16.25:674][223]LogSlate: Window 'Begonia_final' being destroyed
+[2022.09.15-15.16.25:717][223]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-15.16.25:717][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-15.17.56:780][730]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.463 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-15.20.52:252][253]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.Kallstroemia_parviflora_Poses
+[2022.09.15-15.20.52:335][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-15.36.05:695][559]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses) ...
+[2022.09.15-15.36.05:932][559]LogSavePackage: Moving output files for package: /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses
+[2022.09.15-15.36.05:932][559]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Kallstroemia_parviflora_Poses18FFE94E4F379F810FD7CE9A6FA20D13.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.uasset'
+[2022.09.15-15.36.05:948][559]AssetCheck: New page: Asset Save: Kallstroemia_parviflora_Poses
+[2022.09.15-15.36.05:948][559]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.Kallstroemia_parviflora_Poses
+[2022.09.15-15.36.22:825][848]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses) ...
+[2022.09.15-15.36.23:061][848]LogSavePackage: Moving output files for package: /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses
+[2022.09.15-15.36.23:061][848]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Kallstroemia_parviflora_Poses374B95E0482B48AFC9AE08B0A1E624A4.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.uasset'
+[2022.09.15-15.36.23:077][848]AssetCheck: New page: Asset Save: Kallstroemia_parviflora_Poses
+[2022.09.15-15.36.23:077][848]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.Kallstroemia_parviflora_Poses
+[2022.09.15-15.36.29:189][974]Cmd: TRANSACTION UNDO
+[2022.09.15-15.36.29:189][974]LogEditorTransaction: Undo Foliage Editing
+[2022.09.15-15.36.30:983][ 20]Cmd: TRANSACTION UNDO
+[2022.09.15-15.36.30:983][ 20]LogEditorTransaction: Undo Foliage Editing
+[2022.09.15-15.36.32:887][ 46]Cmd: TRANSACTION UNDO
+[2022.09.15-15.36.32:887][ 46]LogEditorTransaction: Undo Edit Light Map Resolution
+[2022.09.15-15.36.33:001][ 46]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses) ...
+[2022.09.15-15.36.59:217][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.15-15.36.59:393][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto4
+[2022.09.15-15.36.59:393][512]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto4AF653BC64219EB24F4387A9497538E65.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto4.umap'
+[2022.09.15-15.36.59:408][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.208
+[2022.09.15-15.36.59:408][512]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.208
+[2022.09.15-16.06.57:002][276]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.Blechnaceae1
+[2022.09.15-16.06.57:018][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-16.12.45:543][704]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.13.27:347][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.09.15-16.13.27:349][352]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.028
+[2022.09.15-16.13.27:387][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1] ([1] browsable assets)...
+[2022.09.15-16.13.27:434][352]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.Blechnaceae1]
+[2022.09.15-16.13.27:434][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1]
+[2022.09.15-16.13.27:615][352]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1_Auto5
+[2022.09.15-16.13.27:615][352]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Blechnaceae1_Auto5F6A57969455429485999B6B7C393A4F3.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1_Auto5.uasset'
+[2022.09.15-16.13.27:616][352]LogFileHelpers: Auto-saving content packages took 0.266
+[2022.09.15-16.13.53:970][700]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.13.56:404][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.15-16.13.56:504][729]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-16.13.56:504][729]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena5685699547D96E6638796693A3FC789C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-16.13.56:542][729]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-16.13.56:542][729]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-16.14.12:399][918]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.14.14:631][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.15-16.14.14:743][938]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-16.14.14:743][938]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena43C81282400881EB385FD180097BC532.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-16.14.14:782][938]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-16.14.14:782][938]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-16.14.20:461][  8]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.14.22:569][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.09.15-16.14.22:684][ 31]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-16.14.22:685][ 31]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena4577AEB24AAD285DCE2E1392840B8E9C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-16.14.22:717][ 31]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-16.14.22:718][ 31]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-16.14.31:709][176]LogSlate: Window 'Foliage' being destroyed
+[2022.09.15-16.14.31:726][176]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.15-16.17.56:694][862]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.077 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-16.19.18:327][298]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.19.21:061][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.15-16.19.21:177][376]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-16.19.21:177][376]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaDD46121D4B6B57E6265E98A70C3D0997.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-16.19.21:212][376]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-16.19.21:212][376]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-16.19.23:177][438]LogSavePackage: Moving output files for package: /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1
+[2022.09.15-16.19.23:177][438]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Blechnaceae1525040734E6FA340C1DDCABEF33487F6.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.uasset'
+[2022.09.15-16.19.23:195][438]AssetCheck: New page: Asset Save: Blechnaceae1
+[2022.09.15-16.19.23:195][438]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.Blechnaceae1
+[2022.09.15-16.19.27:327][571]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.19.32:610][726]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1) ...
+[2022.09.15-16.19.34:260][756]LogSavePackage: Moving output files for package: /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1
+[2022.09.15-16.19.34:261][756]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Blechnaceae166588A9E45931045EEC19FAE19C449CA.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.uasset'
+[2022.09.15-16.19.34:279][756]AssetCheck: New page: Asset Save: Blechnaceae1
+[2022.09.15-16.19.34:279][756]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.Blechnaceae1
+[2022.09.15-16.22.19:832][224]LogSavePackage: Moving output files for package: /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1
+[2022.09.15-16.22.19:833][224]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Blechnaceae1262A2E20491F87F918FFDC98003DE1B8.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.uasset'
+[2022.09.15-16.22.19:846][224]AssetCheck: New page: Asset Save: Blechnaceae1
+[2022.09.15-16.22.19:846][224]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/PLANTAS/023_Blechnaceae/Blechnaceae1.Blechnaceae1
+[2022.09.15-16.22.20:893][236]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-16.22.20:893][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-16.22.23:229][251]LogSavePackage: Moving output files for package: /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses
+[2022.09.15-16.22.23:229][251]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Kallstroemia_parviflora_PosesE35C0B304D082E050A63838084ACD033.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.uasset'
+[2022.09.15-16.22.23:248][251]AssetCheck: New page: Asset Save: Kallstroemia_parviflora_Poses
+[2022.09.15-16.22.23:248][251]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/PLANTAS/026_KallstroemiaParviflora/Kallstroemia_parviflora_Poses.Kallstroemia_parviflora_Poses
+[2022.09.15-16.22.23:871][261]LogSlate: Window 'Kallstroemia_parviflora_Poses' being destroyed
+[2022.09.15-16.22.24:001][261]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-16.22.24:001][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-16.43.56:390][ 27]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.AsteroidRock3
+[2022.09.15-16.43.56:464][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-16.58.35:343][833]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Juanes/SM_Rocas/Rocas_02/MInstanciados/MI_Rocks_004.MI_Rocks_004
+[2022.09.15-16.58.35:424][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-16.58.35:874][833]LogSlate: Took 0.010621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.15-16.58.51:170][480]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-16.58.51:170][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-16.59.03:312][985]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3) ...
+[2022.09.15-16.59.13:544][405]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3) ...
+[2022.09.15-16.59.22:482][771]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3) ...
+[2022.09.15-16.59.36:934][363]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3
+[2022.09.15-16.59.36:934][363]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/AsteroidRock3F72ED3FE4F4403A04246FB980330ED2F.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.uasset'
+[2022.09.15-16.59.36:945][363]AssetCheck: New page: Asset Save: AsteroidRock3
+[2022.09.15-16.59.36:946][363]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.AsteroidRock3
+[2022.09.15-16.59.41:052][499]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3) ...
+[2022.09.15-16.59.42:772][550]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3
+[2022.09.15-16.59.42:772][550]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/AsteroidRock382C06C3941CCB106E68D419D33367C62.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.uasset'
+[2022.09.15-16.59.42:788][550]AssetCheck: New page: Asset Save: AsteroidRock3
+[2022.09.15-16.59.42:788][550]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.AsteroidRock3
+[2022.09.15-17.08.19:244][923]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3
+[2022.09.15-17.08.19:245][923]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/AsteroidRock3820854B04503BDF1D6C3739D37925BDA.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.uasset'
+[2022.09.15-17.08.19:264][923]AssetCheck: New page: Asset Save: AsteroidRock3
+[2022.09.15-17.08.19:264][923]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.AsteroidRock3
+[2022.09.15-17.08.25:985][203]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3
+[2022.09.15-17.08.25:985][203]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/AsteroidRock3EF74FF1740E6B0BFDE218FA0E9AF32CB.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.uasset'
+[2022.09.15-17.08.26:001][203]AssetCheck: New page: Asset Save: AsteroidRock3
+[2022.09.15-17.08.26:001][203]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/AsteroidRock3.AsteroidRock3
+[2022.09.15-17.08.38:600][631]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver.RockRiver
+[2022.09.15-17.08.38:609][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-17.08.41:647][715]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-17.08.41:647][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-17.08.52:745][170]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_04/RockRiver) ...
+[2022.09.15-17.09.33:735][619]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver
+[2022.09.15-17.09.33:736][619]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver44F1E1C443D8BEA60DDD7A8510F3794C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver.uasset'
+[2022.09.15-17.09.33:751][619]AssetCheck: New page: Asset Save: RockRiver
+[2022.09.15-17.09.33:751][619]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver.RockRiver
+[2022.09.15-17.10.05:864][498]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver
+[2022.09.15-17.10.05:864][498]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiverB751849E42BE96E4A0635B84C3D1B753.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver.uasset'
+[2022.09.15-17.10.05:880][498]AssetCheck: New page: Asset Save: RockRiver
+[2022.09.15-17.10.05:881][498]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver.RockRiver
+[2022.09.15-17.10.07:496][538]LogSlate: Window 'RockRiver' being destroyed
+[2022.09.15-17.10.07:602][538]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-17.10.07:602][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-17.10.10:262][625]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver1.RockRiver1
+[2022.09.15-17.10.10:376][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-17.11.03:834][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.09.15-17.11.03:836][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.029
+[2022.09.15-17.11.03:844][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Rocas/Rocas_04/RockRiver1] ([1] browsable assets)...
+[2022.09.15-17.11.03:882][982]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver1.RockRiver1]
+[2022.09.15-17.11.03:882][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Rocas/Rocas_04/RockRiver1]
+[2022.09.15-17.11.03:890][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Rocas/Rocas_04/RockRiver1_Auto6
+[2022.09.15-17.11.03:906][982]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver1_Auto613757365486639C4EA133A9F4CE19464.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Rocas/Rocas_04/RockRiver1_Auto6.uasset'
+[2022.09.15-17.11.03:907][982]LogFileHelpers: Auto-saving content packages took 0.070
+[2022.09.15-17.12.01:593][530]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver1
+[2022.09.15-17.12.01:594][530]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver1BD576867462D08FC01FFB4809464E9A9.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver1.uasset'
+[2022.09.15-17.12.01:636][530]AssetCheck: New page: Asset Save: RockRiver1
+[2022.09.15-17.12.01:636][530]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver1.RockRiver1
+[2022.09.15-17.15.10:161][465]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver1
+[2022.09.15-17.15.10:162][465]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver16353346A418AD783CA0430A09A870ED5.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver1.uasset'
+[2022.09.15-17.15.10:173][465]AssetCheck: New page: Asset Save: RockRiver1
+[2022.09.15-17.15.10:173][465]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver1.RockRiver1
+[2022.09.15-17.15.11:801][545]LogSlate: Window 'RockRiver1' being destroyed
+[2022.09.15-17.15.11:840][545]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-17.15.11:840][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-17.15.18:405][881]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2.RockRiver2
+[2022.09.15-17.15.18:467][881]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-17.15.33:416][563]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_04/RockRiver2) ...
+[2022.09.15-17.17.56:835][536]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.380 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-17.19.46:309][861]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2
+[2022.09.15-17.19.46:310][861]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver27105578D4C0E32F9680C7AB14B4FFE19.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver2.uasset'
+[2022.09.15-17.19.46:329][861]AssetCheck: New page: Asset Save: RockRiver2
+[2022.09.15-17.19.46:329][861]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2.RockRiver2
+[2022.09.15-17.19.53:320][ 51]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2
+[2022.09.15-17.19.53:321][ 51]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver2414899F548898EC3919F82B44A16148C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver2.uasset'
+[2022.09.15-17.19.53:334][ 51]AssetCheck: New page: Asset Save: RockRiver2
+[2022.09.15-17.19.53:334][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2.RockRiver2
+[2022.09.15-17.20.11:200][537]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2
+[2022.09.15-17.20.11:201][537]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver2EBECB9FA4306380BA6CDC99A619957EF.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver2.uasset'
+[2022.09.15-17.20.11:221][537]AssetCheck: New page: Asset Save: RockRiver2
+[2022.09.15-17.20.11:221][537]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver2.RockRiver2
+[2022.09.15-17.20.12:297][575]LogSlate: Window 'RockRiver2' being destroyed
+[2022.09.15-17.20.12:333][575]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-17.20.12:334][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-17.20.17:661][757]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3.RockRiver3
+[2022.09.15-17.20.17:727][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-17.20.27:521][ 77]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_04/RockRiver3) ...
+[2022.09.15-17.23.01:663][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.15-17.23.01:761][440]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-17.23.01:761][440]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaCEC4B4ED42CD9C44FDCBF9B3DA1A31F5.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-17.23.01:802][440]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-17.23.01:802][440]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-17.23.20:985][925]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3
+[2022.09.15-17.23.20:986][925]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver36BCFDE3C42E21ECD61179484D30B3E43.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver3.uasset'
+[2022.09.15-17.23.21:008][925]AssetCheck: New page: Asset Save: RockRiver3
+[2022.09.15-17.23.21:008][925]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3.RockRiver3
+[2022.09.15-17.25.36:701][ 56]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3
+[2022.09.15-17.25.36:702][ 56]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver3DC5E2A24452567028F4B42A2DC8578C3.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver3.uasset'
+[2022.09.15-17.25.36:721][ 56]AssetCheck: New page: Asset Save: RockRiver3
+[2022.09.15-17.25.36:721][ 56]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3.RockRiver3
+[2022.09.15-17.25.51:069][374]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3
+[2022.09.15-17.25.51:069][374]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/RockRiver3586014B94C30F9BB8B236FA8237142C6.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_04/RockRiver3.uasset'
+[2022.09.15-17.25.51:079][374]AssetCheck: New page: Asset Save: RockRiver3
+[2022.09.15-17.25.51:079][374]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_04/RockRiver3.RockRiver3
+[2022.09.15-17.25.52:678][409]LogSlate: Window 'RockRiver3' being destroyed
+[2022.09.15-17.25.52:733][409]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-17.25.52:733][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-17.26.05:958][746]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_001.SM_Rock_001
+[2022.09.15-17.26.06:017][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-17.26.19:939][ 49]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_001) ...
+[2022.09.15-17.27.42:980][104]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_001
+[2022.09.15-17.27.42:981][104]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_0011363FABF488EC5CB10142F80AF593EC1.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/SM_Rock_001.uasset'
+[2022.09.15-17.27.43:002][104]AssetCheck: New page: Asset Save: SM_Rock_001
+[2022.09.15-17.27.43:002][104]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_001.SM_Rock_001
+[2022.09.15-17.27.53:487][522]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.SM_Rock_002
+[2022.09.15-17.27.53:497][522]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-17.27.58:761][688]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-17.27.58:761][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-17.28.06:272][  8]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002) ...
+[2022.09.15-17.32.26:222][156]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002
+[2022.09.15-17.32.26:222][156]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_002CC2EC5FA49636CC2BEA43EA1079F3CDC.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.uasset'
+[2022.09.15-17.32.26:246][156]AssetCheck: New page: Asset Save: SM_Rock_002
+[2022.09.15-17.32.26:246][156]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.SM_Rock_002
+[2022.09.15-17.33.10:157][160]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002
+[2022.09.15-17.33.10:158][160]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_002A7B8EDD547B4FDBFBC8D7B950E080CE5.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.uasset'
+[2022.09.15-17.33.10:175][160]AssetCheck: New page: Asset Save: SM_Rock_002
+[2022.09.15-17.33.10:175][160]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.SM_Rock_002
+[2022.09.15-18.09.10:379][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.09.15-18.09.10:494][428]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-18.09.10:495][428]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena2349BCE949EFED9781B93DA5DBC6601A.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-18.09.10:538][428]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-18.09.10:538][428]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-18.10.30:197][883]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002
+[2022.09.15-18.10.30:198][883]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_Rock_0029037F2B04037221349E9FE8113025F5B.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.uasset'
+[2022.09.15-18.10.30:215][883]AssetCheck: New page: Asset Save: SM_Rock_002
+[2022.09.15-18.10.30:216][883]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Rocas/Rocas_02/SM_Rock_002.SM_Rock_002
+[2022.09.15-18.10.31:156][915]LogSlate: Window 'SM_Rock_002' being destroyed
+[2022.09.15-18.10.31:160][915]LogSlate: Window 'SM_Rock_002' being destroyed
+[2022.09.15-18.10.31:192][915]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-18.10.31:192][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-18.17.56:146][846]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.841 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-18.19.10:226][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-18.19.10:331][930]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto7
+[2022.09.15-18.19.10:331][930]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto773973B204BF1B4E954AD8A942729CE80.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto7.umap'
+[2022.09.15-18.19.10:346][930]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.138
+[2022.09.15-18.19.10:346][930]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.138
+[2022.09.15-18.24.33:216][300]LogSlate: Window 'Foliage' being destroyed
+[2022.09.15-18.24.33:275][300]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.15-18.24.38:685][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Mesh/Landsscape/Terrenoexport29.Terrenoexport29
+[2022.09.15-18.24.38:770][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.15-18.24.59:255][797]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/Mesh/Landsscape/Terrenoexport29) ...
+[2022.09.15-18.25.22:491][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.15-18.25.22:593][252]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-18.25.22:593][252]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaA663603845290D85A840849EAA7E7683.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-18.25.22:630][252]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-18.25.22:630][252]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-18.25.25:173][305]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.15-18.25.36:193][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.15-18.25.51:718][497]LogSavePackage: Moving output files for package: /Game/Props/Mesh/Landsscape/Terrenoexport29
+[2022.09.15-18.25.51:719][497]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Terrenoexport2925F3B6EC406384D9EC346FA386648B25.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Props/Mesh/Landsscape/Terrenoexport29.uasset'
+[2022.09.15-18.25.51:740][497]AssetCheck: New page: Asset Save: Terrenoexport29
+[2022.09.15-18.25.51:740][497]LogContentValidation: Display: Validating StaticMesh /Game/Props/Mesh/Landsscape/Terrenoexport29.Terrenoexport29
+[2022.09.15-18.26.07:289][601]LogSavePackage: Moving output files for package: /Game/Props/Mesh/Landsscape/Terrenoexport29
+[2022.09.15-18.26.07:290][601]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Terrenoexport29313982D247AFE2B0DE92E4A376C249F6.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Props/Mesh/Landsscape/Terrenoexport29.uasset'
+[2022.09.15-18.26.07:302][601]AssetCheck: New page: Asset Save: Terrenoexport29
+[2022.09.15-18.26.07:302][601]LogContentValidation: Display: Validating StaticMesh /Game/Props/Mesh/Landsscape/Terrenoexport29.Terrenoexport29
+[2022.09.15-18.26.08:026][607]LogSlate: Window 'Terrenoexport29' being destroyed
+[2022.09.15-18.26.08:079][607]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.09.15-18.26.08:079][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.15-18.26.42:797][864]LogSlate: Window 'Foliage' being destroyed
+[2022.09.15-18.42.12:905][891]LogSlate: Window 'Foliage' being destroyed
+[2022.09.15-18.42.12:913][891]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.15-18.55.25:782][940]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.55.25:783][940]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.55.26:996][ 70]LogContentBrowser: Deferred new asset file creation: SM_MERGED_Cativo_FoliageType1
+[2022.09.15-18.55.27:126][ 70]LogContentBrowser: Creating deferred item: SM_MERGED_Cativo_FoliageType1
+[2022.09.15-18.55.27:168][ 71]LogContentBrowser: Renaming the item being created (Deferred Item: SM_MERGED_Cativo_FoliageType1).
+[2022.09.15-18.55.54:035][688]LogContentBrowser: Attempting asset rename: SM_MERGED_Cativo_FoliageType1 -> nanite_cativo
+[2022.09.15-18.55.54:036][688]LogContentBrowser: End creating deferred item SM_MERGED_Cativo_FoliageType1
+[2022.09.15-18.56.27:435][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.15-18.56.27:444][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.027
+[2022.09.15-18.56.27:444][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cristian/Foliage/nanite_cativo] ([1] browsable assets)...
+[2022.09.15-18.56.27:467][923]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/nanite_cativo.nanite_cativo]
+[2022.09.15-18.56.27:467][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cristian/Foliage/nanite_cativo]
+[2022.09.15-18.56.27:469][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cristian/Foliage/nanite_cativo_Auto8
+[2022.09.15-18.56.27:484][923]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/nanite_cativo_Auto893A35AAF46454F2FAB0C99A0276D0211.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Cristian/Foliage/nanite_cativo_Auto8.uasset'
+[2022.09.15-18.56.27:485][923]LogFileHelpers: Auto-saving content packages took 0.041
+[2022.09.15-18.58.00:180][746]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.00:180][746]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.00:475][772]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.00:476][772]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.07:833][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.07:833][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.10:607][850]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/nanite_cativo.nanite_cativo
+[2022.09.15-18.58.24:480][294]LogSlate: Window 'nanite_cativo' being destroyed
+[2022.09.15-18.58.24:485][294]LogSlate: Window 'nanite_cativo' being destroyed
+[2022.09.15-18.58.27:001][415]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.27:001][415]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.27:514][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.09.15-18.58.29:896][465]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.15-18.58.29:933][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.15-18.58.36:794][711]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.36:794][711]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-18.58.37:664][802]LogContentBrowser: Deferred new asset file creation: SM_MERGED_Cativo1
+[2022.09.15-18.58.37:772][802]LogContentBrowser: Creating deferred item: SM_MERGED_Cativo1
+[2022.09.15-18.58.37:788][803]LogContentBrowser: Renaming the item being created (Deferred Item: SM_MERGED_Cativo1).
+[2022.09.15-18.58.49:377][187]LogContentBrowser: Attempting asset rename: SM_MERGED_Cativo1 -> SM_nanite_Cativo1
+[2022.09.15-18.58.49:788][187]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1) ...
+[2022.09.15-18.58.49:978][187]LogContentBrowser: End creating deferred item SM_MERGED_Cativo1
+[2022.09.15-18.58.55:581][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1
+[2022.09.15-18.58.55:589][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1
+[2022.09.15-18.58.55:643][552]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1 as actor: StaticMeshActor /Game/Maps/Escena.Escena:PersistentLevel.StaticMeshActor_1
+[2022.09.15-18.58.56:844][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1
+[2022.09.15-18.58.56:844][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1
+[2022.09.15-18.58.56:846][599]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1 as actor: StaticMeshActor /Game/Maps/Escena.Escena:PersistentLevel.StaticMeshActor_3
+[2022.09.15-18.58.59:196][662]LogEditorViewport: Clicking Background
+[2022.09.15-18.59.07:370][ 97]LogStaticMesh: Display: Building static mesh SM_nanite_Cativo1...
+[2022.09.15-18.59.09:299][154]LogStaticMesh: Adjacency [0.08s], tris: 170600, UVs 2
+[2022.09.15-18.59.09:806][169]LogStaticMesh: Clustering [0.50s]. Ratio: 1.018755
+[2022.09.15-18.59.09:814][169]LogStaticMesh: Leaves [0.01s]
+[2022.09.15-18.59.09:814][169]LogStaticMesh: Num clusters 1358. Error 0.0000, 0.0000, 0.0000
+[2022.09.15-18.59.11:642][261]LogStaticMesh: Num clusters 700. Error 0.9603, 1.2747, 1.7722
+[2022.09.15-18.59.12:609][289]LogStaticMesh: Num clusters 361. Error 2.8728, 3.3907, 4.6743
+[2022.09.15-18.59.13:040][301]LogStaticMesh: Num clusters 183. Error 6.7918, 7.3173, 7.8185
+[2022.09.15-18.59.13:193][306]LogStaticMesh: Num clusters 93. Error 9.6872, 10.3889, 11.1442
+[2022.09.15-18.59.13:275][308]LogStaticMesh: Num clusters 48. Error 13.1202, 13.2606, 13.3092
+[2022.09.15-18.59.13:319][309]LogStaticMesh: Num clusters 24. Error 15.2760, 15.5343, 15.7530
+[2022.09.15-18.59.13:367][311]LogStaticMesh: Num clusters 12. Error 21.8257, 21.8257, 21.8257
+[2022.09.15-18.59.13:404][312]LogStaticMesh: Num clusters 6. Error 30.7307, 30.7307, 30.7307
+[2022.09.15-18.59.13:423][312]LogStaticMesh: Num clusters 3. Error 86.6634, 86.6634, 86.6634
+[2022.09.15-18.59.13:427][312]LogStaticMesh: Num clusters 2. Error 227.0034, 227.0034, 227.0034
+[2022.09.15-18.59.13:427][312]LogStaticMesh: Num clusters 1. Error 227.0034, 227.0034, 227.0034
+[2022.09.15-18.59.13:427][312]LogStaticMesh: Reduce [3.61s]
+[2022.09.15-18.59.13:913][326]LogStaticMesh: Fallback 0/1 [0.49s], num tris: 12392
+[2022.09.15-18.59.14:015][329]LogStaticMesh: ConstrainClusters:
+[2022.09.15-18.59.14:015][329]LogStaticMesh:   Input: 2791 Clusters, 351018 Triangles and 360375 Vertices
+[2022.09.15-18.59.14:015][329]LogStaticMesh:   Output without splits: 2791 Clusters, 351018 Triangles and 361049 Vertices
+[2022.09.15-18.59.14:015][329]LogStaticMesh:   Output with splits: 2805 Clusters, 351018 Triangles and 361059 Vertices
+[2022.09.15-18.59.14:022][330]LogStaticMesh: Material Stats - Unique Materials: 4, Fast Path Clusters: 2804, Slow Path Clusters: 1, 1 Material: 149, 2 Materials: 2428, 3 Materials: 227, At Least 4 Materials: 1
+[2022.09.15-18.59.14:137][333]LogStaticMesh: WritePages:
+[2022.09.15-18.59.14:137][333]LogStaticMesh:   Root: GPU size: 31456 bytes. 1 Pages. 31456.000 bytes per page (95.996% utilization).
+[2022.09.15-18.59.14:137][333]LogStaticMesh:   Streaming: GPU size: 5906884 bytes. 46 Pages. 128410.523 bytes per page (97.969% utilization).
+[2022.09.15-18.59.14:137][333]LogStaticMesh:   Page data disk size: 4275068 bytes. Fixup data size: 20016 bytes.
+[2022.09.15-18.59.14:137][333]LogStaticMesh:   Total GPU size: 5938340 bytes, Total disk size: 4295084 bytes.
+[2022.09.15-18.59.14:137][333]LogStaticMesh: Encode [0.22s]
+[2022.09.15-18.59.14:137][333]LogStaticMesh: Imposter [0.00s]
+[2022.09.15-18.59.14:137][333]LogStaticMesh: Nanite build [4.32s]
+
+[2022.09.15-18.59.14:411][341]LogStaticMesh: Built static mesh [7.05s] /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1
+[2022.09.15-19.01.02:121][586]LogEditorViewport: Clicking Background
+[2022.09.15-19.06.27:952][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.15-19.06.28:056][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto9
+[2022.09.15-19.06.28:056][889]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto9A859A8BB4263C2B42C2FB8861304EB0F.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto9.umap'
+[2022.09.15-19.06.28:075][889]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.145
+[2022.09.15-19.06.28:075][889]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2022.09.15-19.06.28:076][889]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1] ([1] browsable assets)...
+[2022.09.15-19.06.28:127][889]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1.SM_nanite_Cativo1]
+[2022.09.15-19.06.28:127][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1]
+[2022.09.15-19.06.28:598][889]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1_Auto9
+[2022.09.15-19.06.28:617][889]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_Auto9E430A1C0410A444A2B3CF590CAED1BED.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Cristian/Arboles/Cativo/SM_nanite_Cativo1_Auto9.uasset'
+[2022.09.15-19.06.28:617][889]LogFileHelpers: Auto-saving content packages took 0.542
+[2022.09.15-19.09.06:092][161]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.15-19.09.06:172][161]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.09.06:173][161]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_FoliageTypeD1D36C604704E2FE2CD151A83E7D8E05.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/SM_nanite_Cativo1_FoliageType.uasset'
+[2022.09.15-19.09.06:188][161]AssetCheck: New page: Asset Save: SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.09.06:188][161]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/SM_nanite_Cativo1_FoliageType.SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.09.41:288][633]Cmd: TRANSACTION UNDO
+[2022.09.15-19.09.41:288][633]LogEditorTransaction: Undo Foliage Editing
+[2022.09.15-19.10.15:581][ 41]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.10.15:581][ 41]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_FoliageType5790FDB74A0FA9E4CFF25E88819CFFA4.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/SM_nanite_Cativo1_FoliageType.uasset'
+[2022.09.15-19.10.15:594][ 41]AssetCheck: New page: Asset Save: SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.10.15:594][ 41]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/SM_nanite_Cativo1_FoliageType.SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.16.29:081][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.09.15-19.16.29:218][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto0
+[2022.09.15-19.16.29:219][813]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto0AB44078740E1FF0FC7707C8B330963E3.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto0.umap'
+[2022.09.15-19.16.29:235][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.177
+[2022.09.15-19.16.29:235][813]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.177
+[2022.09.15-19.17.56:834][ 76]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.337 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-19.20.27:443][263]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-19.20.27:444][263]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-19.20.28:659][368]LogContentBrowser: Deferred new asset file creation: Palma_Milpelos_4
+[2022.09.15-19.20.28:680][368]LogContentBrowser: Creating deferred item: Palma_Milpelos_4
+[2022.09.15-19.20.28:691][369]LogContentBrowser: Renaming the item being created (Deferred Item: Palma_Milpelos_4).
+[2022.09.15-19.20.29:361][385]LogContentBrowser: Attempting asset rename: Palma_Milpelos_4 -> Palma_Milpelos_4
+[2022.09.15-19.20.29:464][385]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_4) ...
+[2022.09.15-19.20.29:512][385]LogContentBrowser: End creating deferred item Palma_Milpelos_4
+[2022.09.15-19.20.33:401][590]LogContentBrowser: Deferred new asset file creation: Palma_Milpelos_5
+[2022.09.15-19.20.33:413][590]LogContentBrowser: Creating deferred item: Palma_Milpelos_5
+[2022.09.15-19.20.33:425][591]LogContentBrowser: Renaming the item being created (Deferred Item: Palma_Milpelos_5).
+[2022.09.15-19.20.34:189][609]LogContentBrowser: Attempting asset rename: Palma_Milpelos_5 -> Palma_Milpelos_5
+[2022.09.15-19.20.34:283][609]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_5) ...
+[2022.09.15-19.20.34:340][609]LogContentBrowser: End creating deferred item Palma_Milpelos_5
+[2022.09.15-19.20.57:709][ 98]LogContentBrowser: Attempting asset rename: Palma_Milpelos_4 -> Palma_Milpelos_Nanite
+[2022.09.15-19.20.58:375][ 98]LogSavePackage: Moving output files for package: /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_Nanite
+[2022.09.15-19.20.58:375][ 98]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Palma_Milpelos_Nanite56F9ACC442CD93037BA2ED948F7F591E.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_Nanite.uasset'
+[2022.09.15-19.20.58:415][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.09.15-19.20.58:427][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.15-19.20.58:436][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.15-19.20.58:450][ 98]AssetCheck: New page: Asset Save: Palma_Milpelos_Nanite
+[2022.09.15-19.20.58:450][ 98]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_Nanite.Palma_Milpelos_Nanite
+[2022.09.15-19.21.04:871][245]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-19.21.04:871][245]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.15-19.21.27:970][846]LogContentBrowser: Attempting asset rename: Palma_Milpelos_5 -> Palma_Milpelos_1Nanite
+[2022.09.15-19.21.28:371][846]LogSavePackage: Moving output files for package: /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_1Nanite
+[2022.09.15-19.21.28:371][846]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Palma_Milpelos_1Nanite6B858B9547E4553AB460F9B792CEB709.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_1Nanite.uasset'
+[2022.09.15-19.21.28:402][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.15-19.21.28:416][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.09.15-19.21.28:430][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.15-19.21.28:433][846]AssetCheck: New page: Asset Save: Palma_Milpelos_1Nanite
+[2022.09.15-19.21.28:433][846]LogContentValidation: Display: Validating StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_1Nanite.Palma_Milpelos_1Nanite
+[2022.09.15-19.23.16:330][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_1Nanite.Palma_Milpelos_1Nanite
+[2022.09.15-19.23.16:330][817]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_1Nanite.Palma_Milpelos_1Nanite
+[2022.09.15-19.23.16:331][817]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_1Nanite.Palma_Milpelos_1Nanite as actor: StaticMeshActor /Game/Maps/Escena.Escena:PersistentLevel.StaticMeshActor_6
+[2022.09.15-19.23.20:690][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_Nanite.Palma_Milpelos_Nanite
+[2022.09.15-19.23.20:690][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_Nanite.Palma_Milpelos_Nanite
+[2022.09.15-19.23.20:691][982]LogActorFactory: Actor Factory spawned StaticMesh /Game/Cristian/Arboles/Palma_Milpelos_Final/Palma_Milpelos_Nanite.Palma_Milpelos_Nanite as actor: StaticMeshActor /Game/Maps/Escena.Escena:PersistentLevel.StaticMeshActor_22
+[2022.09.15-19.24.21:453][602]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.15-19.24.32:788][228]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.15-19.24.32:808][228]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.15-19.24.32:820][229]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.15-19.24.58:978][731]LogContentBrowser: Attempting asset rename: NewFolder -> Nanite
+[2022.09.15-19.24.58:979][731]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.15-19.25.08:999][781]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.15-19.25.09:115][781]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType
+[2022.09.15-19.25.09:115][781]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Palma_Milpelos_1Nanite_FoliageTy6FD0E5D34E37D65BEB2B6AA2384DF27A.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType.uasset'
+[2022.09.15-19.25.09:139][781]AssetCheck: New page: Asset Save: Palma_Milpelos_1Nanite_FoliageType
+[2022.09.15-19.25.09:139][781]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType.Palma_Milpelos_1Nanite_FoliageType
+[2022.09.15-19.25.24:840][850]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.15-19.25.24:923][850]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Palma_Milpelos_Nanite_FoliageType
+[2022.09.15-19.25.24:923][850]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Palma_Milpelos_Nanite_FoliageTypD87421EB41ACB7E67C8AF492B34B9766.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Palma_Milpelos_Nanite_FoliageType.uasset'
+[2022.09.15-19.25.24:945][850]AssetCheck: New page: Asset Save: Palma_Milpelos_Nanite_FoliageType
+[2022.09.15-19.25.24:945][850]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Palma_Milpelos_Nanite_FoliageType.Palma_Milpelos_Nanite_FoliageType
+[2022.09.15-19.25.34:143][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.09.15-19.25.34:285][ 70]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.15-19.25.34:285][ 70]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaDB38C20E4004E660E16D4BB59EF7CB29.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.15-19.25.34:327][ 70]AssetCheck: New page: Asset Save: Escena
+[2022.09.15-19.25.34:327][ 70]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.15-19.26.54:210][777]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.26.54:210][777]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_FoliageTypeCC34670644F02906DB44C585C8EBECC4.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType.uasset'
+[2022.09.15-19.26.54:213][777]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.26.54:213][777]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_FoliageType0640AB7342E31B288D2B6A8330D84F35.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/SM_nanite_Cativo1_FoliageType.uasset'
+[2022.09.15-19.26.54:250][777]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.15-19.26.54:250][777]LogContentValidation: Display: Validating ObjectRedirector /Game/Cristian/Foliage/SM_nanite_Cativo1_FoliageType.SM_nanite_Cativo1_FoliageType
+[2022.09.15-19.26.54:250][777]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType.SM_nanite_Cativo1_FoliageType
+[2022.09.15-20.17.56:214][677]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.599 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.15-20.24.41:642][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.15-20.24.41:798][844]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto1
+[2022.09.15-20.24.41:798][844]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto186BB5BE64BF1AEC4239822A46B6664F3.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto1.umap'
+[2022.09.15-20.24.41:815][844]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.189
+[2022.09.15-20.24.41:815][844]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.189
+[2022.09.15-20.28.29:060][526]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Palma_Milpelos_Nanite_FoliageType
+[2022.09.15-20.28.29:061][526]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Palma_Milpelos_Nanite_FoliageTyp8B86313243709F23A4C41791797FB507.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Palma_Milpelos_Nanite_FoliageType.uasset'
+[2022.09.15-20.28.29:073][526]AssetCheck: New page: Asset Save: Palma_Milpelos_Nanite_FoliageType
+[2022.09.15-20.28.29:073][526]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Palma_Milpelos_Nanite_FoliageType.Palma_Milpelos_Nanite_FoliageType
+[2022.09.15-20.28.33:060][573]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType
+[2022.09.15-20.28.33:061][573]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Palma_Milpelos_1Nanite_FoliageTyA0C577874D848952D6B49B9EDFF41AFE.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType.uasset'
+[2022.09.15-20.28.33:080][573]AssetCheck: New page: Asset Save: Palma_Milpelos_1Nanite_FoliageType
+[2022.09.15-20.28.33:080][573]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType.Palma_Milpelos_1Nanite_FoliageType
+[2022.09.15-20.34.42:923][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.15-20.34.43:040][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto2
+[2022.09.15-20.34.43:041][ 37]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto2330557D247D99EC6893828882ECB33CD.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto2.umap'
+[2022.09.15-20.34.43:055][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.148
+[2022.09.15-20.34.43:055][ 37]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.148
+[2022.09.15-20.44.43:252][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.09.15-20.44.43:358][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto3
+[2022.09.15-20.44.43:358][485]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto35C7386964A65E130DE68FC98D40B57DA.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto3.umap'
+[2022.09.15-20.44.43:373][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.145
+[2022.09.15-20.44.43:373][485]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2022.09.15-20.45.41:153][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.15-20.45.47:785][779]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.15-20.45.47:838][779]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cristian/Foliage/Nanite/Palma_Milpelos_1Nanite_FoliageType.Palma_Milpelos_1Nanite_FoliageType
+	Asset Type: FoliageType_InstancedStaticMesh
+[2022.09.15-20.45.48:094][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.09.15-20.45.48:103][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.15-20.45.48:112][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.15-20.46.14:775][779]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [26053ms] waiting for h/w. InstanceID=1
+[2022.09.15-20.46.14:775][779]LogWindows: Error: === Critical error: ===
+[2022.09.15-20.46.14:775][779]LogWindows: Error: 
+[2022.09.15-20.46.14:775][779]LogWindows: Error: Fatal error!
+[2022.09.15-20.46.14:775][779]LogWindows: Error: 
+[2022.09.15-20.46.14:775][779]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000390
+[2022.09.15-20.46.14:775][779]LogWindows: Error: 
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff6bf5d676 UnrealEditor-FoliageEdit.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff6bf3efd7 UnrealEditor-FoliageEdit.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7562ac62 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7577892c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572caee UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:775][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff7572cb8c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75768e02 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff757754c3 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75bf2ead UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75bf3036 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75bc8c59 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75bf41d1 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75bc9b14 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75c1af99 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fff75c1a728 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007ff664628e7d UnrealEditor.exe!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007ff664640d9c UnrealEditor.exe!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007ff664640e8a UnrealEditor.exe!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007ff664643c4d UnrealEditor.exe!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007ff664655534 UnrealEditor.exe!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007ff6646586e6 UnrealEditor.exe!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fffd8577034 KERNEL32.DLL!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: [Callstack] 0x00007fffd8b22651 ntdll.dll!UnknownFunction []
+[2022.09.15-20.46.14:776][779]LogWindows: Error: 
+[2022.09.15-20.46.14:789][779]LogExit: Executing StaticShutdownAfterError
+[2022.09.15-20.46.14:792][779]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.09.15-20.46.14:792][779]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.09.15-20.46.14:792][779]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.09.15-20.46.14:851][779]Log file closed, 09/15/22 15:46:14
