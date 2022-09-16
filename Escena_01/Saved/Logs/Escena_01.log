@@ -970,3 +970,426 @@ Recommended: 22.2.2
 [2022.09.16-15.36.40:899][745]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{90f60cc6-9fec-4bec-8f72-8006b3ae824d}, Name=Realtek HD Audio 2nd output (Realtek High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=35.05
 [2022.09.16-15.36.40:899][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2022.09.16-15.36.40:916][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.16-15.38.50:687][152]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.16-15.39.04:451][301]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.16-15.41.13:218][822]LogSlate: Window 'Foliage' being destroyed
+[2022.09.16-15.41.26:827][970]LogSlate: Window 'Landscape' being destroyed
+[2022.09.16-15.43.40:440][101]LogSlate: Window 'Foliage' being destroyed
+[2022.09.16-15.46.41:503][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.09.16-15.46.41:627][551]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto2
+[2022.09.16-15.46.41:627][551]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto2A6B25B5649A6FC1D02A6ABB4A7E9DD8C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto2.umap'
+[2022.09.16-15.46.41:641][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.157
+[2022.09.16-15.46.41:641][551]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.157
+[2022.09.16-15.47.05:753][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.16-15.47.05:855][749]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.16-15.47.05:855][749]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaE7A6FFD3474A5D3FD49C1FA5CBCF895C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.16-15.47.05:896][749]AssetCheck: New page: Asset Save: Escena
+[2022.09.16-15.47.05:896][749]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.16-15.47.07:310][813]LogSlate: Window 'Foliage' being destroyed
+[2022.09.16-15.49.12:480][850]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Cristian/Arboles/ceiba/ceiba/Ceiba_rosea.Ceiba_rosea
+[2022.09.16-15.49.12:630][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.16-15.49.49:741][582]LogSlate: Window 'Ceiba_rosea' being destroyed
+[2022.09.16-15.49.49:884][582]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.09.16-15.49.49:884][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.16-15.49.52:197][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.16-15.49.52:342][599]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.16-15.49.52:342][599]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaB7A159434746222BD9760C81FB162FC4.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.16-15.49.52:375][599]AssetCheck: New page: Asset Save: Escena
+[2022.09.16-15.49.52:375][599]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.16-15.50.44:615][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.16-15.50.44:712][ 27]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.16-15.50.44:712][ 27]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena065E8BB348509F8D5025C386B4BE70F2.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.16-15.50.44:754][ 27]AssetCheck: New page: Asset Save: Escena
+[2022.09.16-15.50.44:754][ 27]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.16-15.50.47:067][ 48]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2022.09.16-15.56.21:208][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.09.16-15.56.23:482][165]LogSlate: Window 'Save Content' being destroyed
+[2022.09.16-16.03.32:296][462]LogWindowsTextInputMethodSystem: Activated input method: Español (Latinoamérica) - (Keyboard).
+[2022.09.16-16.03.32:296][462]LogWindowsTextInputMethodSystem: Activated input method: Español (Latinoamérica) - (Keyboard).
+[2022.09.16-16.05.15:985][861]Cmd: DELETE
+[2022.09.16-16.05.15:985][861]Cmd: ACTOR DELETE
+[2022.09.16-16.05.16:063][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-16.05.16:089][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.16-16.05.16:091][861]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2022.09.16-16.09.05:514][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.16-16.09.05:611][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto3
+[2022.09.16-16.09.05:611][297]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto38F17F6F04541FA68E7CD1AAC3805A45C.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto3.umap'
+[2022.09.16-16.09.05:628][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.132
+[2022.09.16-16.09.05:628][297]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.132
+[2022.09.16-16.09.05:628][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType] ([1] browsable assets)...
+[2022.09.16-16.09.05:671][297]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType.SM_nanite_Cativo1_FoliageType]
+[2022.09.16-16.09.05:672][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType]
+[2022.09.16-16.09.05:674][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType_Auto3
+[2022.09.16-16.09.05:675][297]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_FoliageType_AuDD029E4E42F4353FF9843E9A9924F4BB.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType_Auto3.uasset'
+[2022.09.16-16.09.05:675][297]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.09.16-16.11.31:558][510]Cmd: TRANSACTION UNDO
+[2022.09.16-16.11.31:558][510]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.11.46:270][677]Cmd: TRANSACTION UNDO
+[2022.09.16-16.11.46:270][677]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.11.58:447][803]Cmd: TRANSACTION UNDO
+[2022.09.16-16.11.58:447][803]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.12.02:579][842]Cmd: TRANSACTION UNDO
+[2022.09.16-16.12.02:579][842]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.13.15:422][453]Cmd: TRANSACTION UNDO
+[2022.09.16-16.13.15:422][453]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.18.13:621][670]LogSlate: Window 'Foliage' being destroyed
+[2022.09.16-16.18.13:752][670]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.09.16-16.18.16:850][706]Cmd: DELETE
+[2022.09.16-16.18.16:850][706]Cmd: ACTOR DELETE
+[2022.09.16-16.18.16:862][706]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-16.18.16:884][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.09.16-16.18.16:891][706]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.09.16-16.18.29:128][820]LogDerivedDataCache: C:/Users/Sena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.822 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.16-16.18.48:085][993]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType
+[2022.09.16-16.18.48:086][993]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/SM_nanite_Cativo1_FoliageType8DD74D8240883AA7EE29E4934076382A.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType.uasset'
+[2022.09.16-16.18.48:109][993]AssetCheck: New page: Asset Save: SM_nanite_Cativo1_FoliageType
+[2022.09.16-16.18.48:109][993]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/SM_nanite_Cativo1_FoliageType.SM_nanite_Cativo1_FoliageType
+[2022.09.16-16.19.29:718][393]Cmd: TRANSACTION UNDO
+[2022.09.16-16.19.29:718][393]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.19.34:231][478]Cmd: TRANSACTION UNDO
+[2022.09.16-16.19.34:231][478]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.19.46:514][600]LogSlate: Window 'Foliage' being destroyed
+[2022.09.16-16.19.52:427][661]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.16-16.20.08:475][834]Cmd: TRANSACTION UNDO
+[2022.09.16-16.20.08:475][834]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.21.23:257][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.16-16.21.23:385][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto4
+[2022.09.16-16.21.23:385][771]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto402C402484C3DB2E0AEAA12934EF82D15.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto4.umap'
+[2022.09.16-16.21.23:401][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.165
+[2022.09.16-16.21.23:401][771]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.165
+[2022.09.16-16.21.50:294][944]Cmd: TRANSACTION UNDO
+[2022.09.16-16.21.50:294][944]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.22.04:596][278]Cmd: TRANSACTION UNDO
+[2022.09.16-16.22.04:596][278]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.22.12:205][467]Cmd: TRANSACTION UNDO
+[2022.09.16-16.22.12:205][467]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.22.15:483][565]Cmd: TRANSACTION UNDO
+[2022.09.16-16.22.15:483][565]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.23.09:066][235]Cmd: TRANSACTION UNDO
+[2022.09.16-16.23.09:066][235]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.24.20:214][902]Cmd: TRANSACTION UNDO
+[2022.09.16-16.24.20:214][902]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.24.28:313][  7]Cmd: TRANSACTION UNDO
+[2022.09.16-16.24.28:313][  7]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.24.55:965][413]Cmd: TRANSACTION UNDO
+[2022.09.16-16.24.55:965][413]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.27.46:736][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.16-16.27.46:856][839]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.16-16.27.46:857][839]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena517938A249997134B9CB9482649FCD66.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.16-16.27.46:896][839]AssetCheck: New page: Asset Save: Escena
+[2022.09.16-16.27.46:896][839]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.16-16.29.48:272][343]LogContentBrowser: Deferred new asset file creation: Heliconia002
+[2022.09.16-16.29.48:286][343]LogContentBrowser: Creating deferred item: Heliconia002
+[2022.09.16-16.29.48:299][344]LogContentBrowser: Renaming the item being created (Deferred Item: Heliconia002).
+[2022.09.16-16.29.48:955][357]LogContentBrowser: Attempting asset rename: Heliconia002 -> Heliconia002
+[2022.09.16-16.29.49:019][357]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia002) ...
+[2022.09.16-16.29.49:041][357]LogContentBrowser: End creating deferred item Heliconia002
+[2022.09.16-16.29.52:413][398]LogContentBrowser: Attempting asset rename: Heliconia002 -> Heliconia002
+[2022.09.16-16.30.18:222][715]LogContentBrowser: Attempting asset rename: Heliconia002 -> Heliconia_nanite
+[2022.09.16-16.30.18:483][715]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite
+[2022.09.16-16.30.18:483][715]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Heliconia_naniteB65E4F0B475483B1C7C5058D19E18337.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.uasset'
+[2022.09.16-16.30.18:524][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.16-16.30.18:539][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.16-16.30.18:550][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.16-16.30.18:555][715]AssetCheck: New page: Asset Save: Heliconia_nanite
+[2022.09.16-16.30.18:555][715]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.Heliconia_nanite
+[2022.09.16-16.30.25:673][325]LogStaticMesh: Display: Building static mesh Heliconia_nanite...
+[2022.09.16-16.30.25:744][327]LogStaticMesh: Adjacency [0.00s], tris: 7492, UVs 2
+[2022.09.16-16.30.25:765][328]LogStaticMesh: Clustering [0.02s]. Ratio: 1.033898
+[2022.09.16-16.30.25:765][328]LogStaticMesh: Leaves [0.00s]
+[2022.09.16-16.30.25:765][328]LogStaticMesh: Num clusters 61. Error 0.0000, 0.0000, 0.0000
+[2022.09.16-16.30.25:850][330]LogStaticMesh: Num clusters 30. Error 0.3114, 0.3494, 0.3745
+[2022.09.16-16.30.25:927][332]LogStaticMesh: Num clusters 15. Error 0.7860, 0.7860, 0.7860
+[2022.09.16-16.30.25:975][333]LogStaticMesh: Num clusters 8. Error 1.5496, 1.5496, 1.5496
+[2022.09.16-16.30.25:975][333]LogStaticMesh: Num clusters 4. Error 2.4016, 2.4016, 2.4016
+[2022.09.16-16.30.25:989][333]LogStaticMesh: Num clusters 2. Error 3.9417, 3.9417, 3.9417
+[2022.09.16-16.30.25:991][333]LogStaticMesh: Num clusters 1. Error 4.7634, 4.7634, 4.7634
+[2022.09.16-16.30.25:991][333]LogStaticMesh: Reduce [0.23s]
+[2022.09.16-16.30.26:097][336]LogStaticMesh: Fallback 0/1 [0.11s], num tris: 1721
+[2022.09.16-16.30.26:101][336]LogStaticMesh: ConstrainClusters:
+[2022.09.16-16.30.26:101][336]LogStaticMesh:   Input: 121 Clusters, 15049 Triangles and 12631 Vertices
+[2022.09.16-16.30.26:101][336]LogStaticMesh:   Output without splits: 121 Clusters, 15049 Triangles and 12741 Vertices
+[2022.09.16-16.30.26:101][336]LogStaticMesh:   Output with splits: 121 Clusters, 15049 Triangles and 12741 Vertices
+[2022.09.16-16.30.26:101][336]LogStaticMesh: Material Stats - Unique Materials: 5, Fast Path Clusters: 107, Slow Path Clusters: 14, 1 Material: 16, 2 Materials: 55, 3 Materials: 36, At Least 4 Materials: 14
+[2022.09.16-16.30.26:111][336]LogStaticMesh: WritePages:
+[2022.09.16-16.30.26:111][336]LogStaticMesh:   Root: GPU size: 31664 bytes. 1 Pages. 31664.000 bytes per page (96.631% utilization).
+[2022.09.16-16.30.26:111][336]LogStaticMesh:   Streaming: GPU size: 169744 bytes. 2 Pages. 84872.000 bytes per page (64.752% utilization).
+[2022.09.16-16.30.26:111][336]LogStaticMesh:   Page data disk size: 166716 bytes. Fixup data size: 640 bytes.
+[2022.09.16-16.30.26:111][336]LogStaticMesh:   Total GPU size: 201408 bytes, Total disk size: 167356 bytes.
+[2022.09.16-16.30.26:111][336]LogStaticMesh: Encode [0.01s]
+[2022.09.16-16.30.26:113][336]LogStaticMesh: Imposter [0.00s]
+[2022.09.16-16.30.26:113][336]LogStaticMesh: Nanite build [0.35s]
+
+[2022.09.16-16.30.26:127][336]LogStaticMesh: Built static mesh [0.47s] /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.Heliconia_nanite
+[2022.09.16-16.30.45:409][562]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.Heliconia_nanite
+[2022.09.16-16.30.45:409][562]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.Heliconia_nanite
+[2022.09.16-16.30.45:410][562]LogActorFactory: Actor Factory spawned StaticMesh /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.Heliconia_nanite as actor: StaticMeshActor /Game/Maps/Escena.Escena:PersistentLevel.StaticMeshActor_1
+[2022.09.16-16.31.11:847][988]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.16-16.31.11:955][988]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Heliconia_nanite_FoliageType
+[2022.09.16-16.31.11:955][988]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Heliconia_nanite_FoliageType34044DAA44FCEB4EB82A3FAC71BE9156.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Heliconia_nanite_FoliageType.uasset'
+[2022.09.16-16.31.11:978][988]AssetCheck: New page: Asset Save: Heliconia_nanite_FoliageType
+[2022.09.16-16.31.11:978][988]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Heliconia_nanite_FoliageType.Heliconia_nanite_FoliageType
+[2022.09.16-16.31.45:632][528]Cmd: TRANSACTION UNDO
+[2022.09.16-16.31.45:633][528]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.36.35:665][873]Cmd: TRANSACTION UNDO
+[2022.09.16-16.36.35:665][873]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.37.11:612][244]Cmd: TRANSACTION UNDO
+[2022.09.16-16.37.11:612][244]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.37.54:244][677]Cmd: TRANSACTION UNDO
+[2022.09.16-16.37.54:244][677]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.38.33:770][ 62]Cmd: TRANSACTION UNDO
+[2022.09.16-16.38.33:770][ 62]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.39.18:618][504]Cmd: TRANSACTION UNDO
+[2022.09.16-16.39.18:618][504]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.39.21:561][568]Cmd: TRANSACTION UNDO
+[2022.09.16-16.39.21:561][568]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.40.37:117][383]Cmd: TRANSACTION UNDO
+[2022.09.16-16.40.37:117][383]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.43.34:875][406]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.16-16.43.34:875][406]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.16-16.43.38:522][539]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.16-16.43.38:522][539]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.16-16.43.39:463][618]LogContentBrowser: Deferred new asset file creation: Begonia_final1
+[2022.09.16-16.43.39:482][618]LogContentBrowser: Creating deferred item: Begonia_final1
+[2022.09.16-16.43.39:495][619]LogContentBrowser: Renaming the item being created (Deferred Item: Begonia_final1).
+[2022.09.16-16.43.49:853][735]LogContentBrowser: Attempting asset rename: Begonia_final1 -> Begonia_nanite
+[2022.09.16-16.43.50:013][735]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite) ...
+[2022.09.16-16.43.50:094][735]LogContentBrowser: End creating deferred item Begonia_final1
+[2022.09.16-16.43.56:137][159]LogStaticMesh: Display: Building static mesh Begonia_nanite...
+[2022.09.16-16.43.56:505][167]LogStaticMesh: Adjacency [0.01s], tris: 49711, UVs 2
+[2022.09.16-16.43.56:630][169]LogStaticMesh: Clustering [0.13s]. Ratio: 1.015424
+[2022.09.16-16.43.56:632][169]LogStaticMesh: Leaves [0.00s]
+[2022.09.16-16.43.56:632][169]LogStaticMesh: Num clusters 395. Error 0.0000, 0.0000, 0.0000
+[2022.09.16-16.43.57:101][171]LogStaticMesh: Num clusters 205. Error 0.0581, 0.1813, 0.2759
+[2022.09.16-16.43.57:416][174]LogStaticMesh: Num clusters 105. Error 0.3927, 0.6447, 1.0962
+[2022.09.16-16.43.57:561][177]LogStaticMesh: Num clusters 55. Error 1.3855, 1.7150, 2.1043
+[2022.09.16-16.43.57:643][178]LogStaticMesh: Num clusters 29. Error 3.0210, 3.6646, 4.1421
+[2022.09.16-16.43.57:744][180]LogStaticMesh: Num clusters 15. Error 7.6183, 7.6183, 7.6183
+[2022.09.16-16.43.57:791][181]LogStaticMesh: Num clusters 8. Error 12.5557, 12.5557, 12.5557
+[2022.09.16-16.43.57:820][182]LogStaticMesh: Num clusters 4. Error 19.7710, 19.7710, 19.7710
+[2022.09.16-16.43.57:830][182]LogStaticMesh: Num clusters 2. Error 26.2753, 26.2753, 26.2753
+[2022.09.16-16.43.57:834][182]LogStaticMesh: Num clusters 1. Error 37.2527, 37.2527, 37.2527
+[2022.09.16-16.43.57:834][182]LogStaticMesh: Reduce [1.20s]
+[2022.09.16-16.43.57:941][184]LogStaticMesh: Fallback 0/1 [0.11s], num tris: 3245
+[2022.09.16-16.43.57:965][184]LogStaticMesh: ConstrainClusters:
+[2022.09.16-16.43.57:965][184]LogStaticMesh:   Input: 819 Clusters, 103068 Triangles and 76319 Vertices
+[2022.09.16-16.43.57:965][184]LogStaticMesh:   Output without splits: 819 Clusters, 103068 Triangles and 77315 Vertices
+[2022.09.16-16.43.57:965][184]LogStaticMesh:   Output with splits: 819 Clusters, 103068 Triangles and 77315 Vertices
+[2022.09.16-16.43.57:965][184]LogStaticMesh: Material Stats - Unique Materials: 9, Fast Path Clusters: 793, Slow Path Clusters: 26, 1 Material: 435, 2 Materials: 292, 3 Materials: 66, At Least 4 Materials: 26
+[2022.09.16-16.43.57:991][185]LogStaticMesh: WritePages:
+[2022.09.16-16.43.57:991][185]LogStaticMesh:   Root: GPU size: 31056 bytes. 1 Pages. 31056.000 bytes per page (94.775% utilization).
+[2022.09.16-16.43.57:991][185]LogStaticMesh:   Streaming: GPU size: 1221512 bytes. 10 Pages. 122151.203 bytes per page (93.194% utilization).
+[2022.09.16-16.43.57:991][185]LogStaticMesh:   Page data disk size: 1024480 bytes. Fixup data size: 5016 bytes.
+[2022.09.16-16.43.57:991][185]LogStaticMesh:   Total GPU size: 1252568 bytes, Total disk size: 1029496 bytes.
+[2022.09.16-16.43.57:991][185]LogStaticMesh: Encode [0.05s]
+[2022.09.16-16.43.57:991][185]LogStaticMesh: Imposter [0.00s]
+[2022.09.16-16.43.57:991][185]LogStaticMesh: Nanite build [1.36s]
+
+[2022.09.16-16.43.58:003][185]LogStaticMesh: Built static mesh [1.88s] /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite.Begonia_nanite
+[2022.09.16-16.44.15:888][373]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.16-16.44.16:004][373]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType
+[2022.09.16-16.44.16:004][373]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_nanite_FoliageTypeCBD1DEDA4F3D5D5FA7AE93A394C26623.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType.uasset'
+[2022.09.16-16.44.16:026][373]AssetCheck: New page: Asset Save: Begonia_nanite_FoliageType
+[2022.09.16-16.44.16:026][373]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType.Begonia_nanite_FoliageType
+[2022.09.16-16.45.14:236][ 86]Cmd: TRANSACTION UNDO
+[2022.09.16-16.45.14:236][ 86]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.45.38:975][406]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType
+[2022.09.16-16.45.38:977][406]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_nanite_FoliageTypeABBDCC0045DA45E1EFA532A555893828.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType.uasset'
+[2022.09.16-16.45.38:993][406]AssetCheck: New page: Asset Save: Begonia_nanite_FoliageType
+[2022.09.16-16.45.38:993][406]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType.Begonia_nanite_FoliageType
+[2022.09.16-16.46.57:739][297]Cmd: TRANSACTION UNDO
+[2022.09.16-16.46.57:739][297]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.46.59:508][358]Cmd: TRANSACTION UNDO
+[2022.09.16-16.46.59:508][358]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.47.14:550][531]Cmd: TRANSACTION UNDO
+[2022.09.16-16.47.14:550][531]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.48.36:462][491]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType
+[2022.09.16-16.48.36:463][491]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_nanite_FoliageType1590BE8649C8B89893671D8605D0611D.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType.uasset'
+[2022.09.16-16.48.36:487][491]AssetCheck: New page: Asset Save: Begonia_nanite_FoliageType
+[2022.09.16-16.48.36:487][491]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Begonia_nanite_FoliageType.Begonia_nanite_FoliageType
+[2022.09.16-16.49.14:044][ 86]LogContentBrowser: Deferred new asset file creation: FINAL1
+[2022.09.16-16.49.14:059][ 86]LogContentBrowser: Creating deferred item: FINAL1
+[2022.09.16-16.49.14:076][ 87]LogContentBrowser: Renaming the item being created (Deferred Item: FINAL1).
+[2022.09.16-16.49.15:870][115]LogContentBrowser: Attempting asset rename: FINAL1 -> FINAL1
+[2022.09.16-16.49.15:937][115]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/007_Bromelia/FINAL1) ...
+[2022.09.16-16.49.15:954][115]LogContentBrowser: End creating deferred item FINAL1
+[2022.09.16-16.49.27:695][341]LogContentBrowser: Attempting asset rename: FINAL1 -> Bromelia_nanite
+[2022.09.16-16.49.27:986][341]LogSavePackage: Moving output files for package: /Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite
+[2022.09.16-16.49.27:987][341]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia_nanite9C53E3E0452D016459406CB614F5008B.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite.uasset'
+[2022.09.16-16.49.28:026][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.16-16.49.28:047][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.09.16-16.49.28:057][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.09.16-16.49.28:062][341]AssetCheck: New page: Asset Save: Bromelia_nanite
+[2022.09.16-16.49.28:062][341]LogContentValidation: Display: Validating StaticMesh /Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite.Bromelia_nanite
+[2022.09.16-16.49.34:562][516]LogContentBrowser: Deferred new asset file creation: FINAL3
+[2022.09.16-16.49.34:692][516]LogContentBrowser: Creating deferred item: FINAL3
+[2022.09.16-16.49.34:718][517]LogContentBrowser: Renaming the item being created (Deferred Item: FINAL3).
+[2022.09.16-16.49.43:447][641]LogContentBrowser: Attempting asset rename: FINAL3 -> Bromelia2_nanite
+[2022.09.16-16.49.43:519][641]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite) ...
+[2022.09.16-16.49.43:569][641]LogContentBrowser: End creating deferred item FINAL3
+[2022.09.16-16.49.50:378][873]LogStaticMesh: Display: Building static mesh Bromelia_nanite...
+[2022.09.16-16.49.50:454][876]LogStaticMesh: Adjacency [0.00s], tris: 9760, UVs 2
+[2022.09.16-16.49.50:472][876]LogStaticMesh: Clustering [0.02s]. Ratio: 1.012987
+[2022.09.16-16.49.50:472][876]LogStaticMesh: Leaves [0.00s]
+[2022.09.16-16.49.50:472][876]LogStaticMesh: Num clusters 78. Error 0.0000, 0.0000, 0.0000
+[2022.09.16-16.49.50:560][878]LogStaticMesh: Num clusters 39. Error 0.2536, 0.3092, 0.3749
+[2022.09.16-16.49.50:631][880]LogStaticMesh: Num clusters 20. Error 0.9367, 0.9611, 0.9855
+[2022.09.16-16.49.50:693][881]LogStaticMesh: Num clusters 10. Error 2.0953, 2.0953, 2.0953
+[2022.09.16-16.49.50:724][882]LogStaticMesh: Num clusters 5. Error 3.6520, 3.6520, 3.6520
+[2022.09.16-16.49.50:736][882]LogStaticMesh: Num clusters 3. Error 5.3664, 5.3664, 5.3664
+[2022.09.16-16.49.50:755][883]LogStaticMesh: Num clusters 2. Error 6.2412, 6.2412, 6.2412
+[2022.09.16-16.49.50:755][883]LogStaticMesh: Num clusters 1. Error 8.5246, 8.5246, 8.5246
+[2022.09.16-16.49.50:755][883]LogStaticMesh: Reduce [0.28s]
+[2022.09.16-16.49.50:823][884]LogStaticMesh: Fallback 0/1 [0.07s], num tris: 1217
+[2022.09.16-16.49.50:827][884]LogStaticMesh: ConstrainClusters:
+[2022.09.16-16.49.50:827][884]LogStaticMesh:   Input: 158 Clusters, 19837 Triangles and 16224 Vertices
+[2022.09.16-16.49.50:827][884]LogStaticMesh:   Output without splits: 158 Clusters, 19837 Triangles and 16320 Vertices
+[2022.09.16-16.49.50:827][884]LogStaticMesh:   Output with splits: 158 Clusters, 19837 Triangles and 16320 Vertices
+[2022.09.16-16.49.50:827][884]LogStaticMesh: Material Stats - Unique Materials: 5, Fast Path Clusters: 152, Slow Path Clusters: 6, 1 Material: 27, 2 Materials: 113, 3 Materials: 12, At Least 4 Materials: 6
+[2022.09.16-16.49.50:843][885]LogStaticMesh: WritePages:
+[2022.09.16-16.49.50:843][885]LogStaticMesh:   Root: GPU size: 32336 bytes. 1 Pages. 32336.000 bytes per page (98.682% utilization).
+[2022.09.16-16.49.50:843][885]LogStaticMesh:   Streaming: GPU size: 227096 bytes. 2 Pages. 113548.000 bytes per page (86.630% utilization).
+[2022.09.16-16.49.50:843][885]LogStaticMesh:   Page data disk size: 211288 bytes. Fixup data size: 792 bytes.
+[2022.09.16-16.49.50:843][885]LogStaticMesh:   Total GPU size: 259432 bytes, Total disk size: 212080 bytes.
+[2022.09.16-16.49.50:843][885]LogStaticMesh: Encode [0.01s]
+[2022.09.16-16.49.50:843][885]LogStaticMesh: Imposter [0.00s]
+[2022.09.16-16.49.50:843][885]LogStaticMesh: Nanite build [0.36s]
+
+[2022.09.16-16.49.50:843][885]LogStaticMesh: Built static mesh [0.49s] /Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite.Bromelia_nanite
+[2022.09.16-16.49.55:162][ 53]LogStaticMesh: Display: Building static mesh Bromelia2_nanite...
+[2022.09.16-16.49.55:234][ 55]LogStaticMesh: Adjacency [0.00s], tris: 9898, UVs 2
+[2022.09.16-16.49.55:261][ 56]LogStaticMesh: Clustering [0.03s]. Ratio: 1.012820
+[2022.09.16-16.49.55:261][ 56]LogStaticMesh: Leaves [0.00s]
+[2022.09.16-16.49.55:261][ 56]LogStaticMesh: Num clusters 79. Error 0.0000, 0.0000, 0.0000
+[2022.09.16-16.49.55:357][ 58]LogStaticMesh: Num clusters 40. Error 0.3223, 0.3411, 0.3501
+[2022.09.16-16.49.55:431][ 60]LogStaticMesh: Num clusters 20. Error 0.9011, 1.1132, 1.3252
+[2022.09.16-16.49.55:501][ 62]LogStaticMesh: Num clusters 10. Error 2.2747, 2.2747, 2.2747
+[2022.09.16-16.49.55:523][ 62]LogStaticMesh: Num clusters 5. Error 4.7315, 4.7315, 4.7315
+[2022.09.16-16.49.55:532][ 62]LogStaticMesh: Num clusters 3. Error 6.1942, 6.1942, 6.1942
+[2022.09.16-16.49.55:554][ 63]LogStaticMesh: Num clusters 2. Error 7.5857, 7.5857, 7.5857
+[2022.09.16-16.49.55:554][ 63]LogStaticMesh: Num clusters 1. Error 10.1579, 10.1579, 10.1579
+[2022.09.16-16.49.55:554][ 63]LogStaticMesh: Reduce [0.29s]
+[2022.09.16-16.49.55:617][ 64]LogStaticMesh: Fallback 0/1 [0.07s], num tris: 997
+[2022.09.16-16.49.55:633][ 65]LogStaticMesh: ConstrainClusters:
+[2022.09.16-16.49.55:634][ 65]LogStaticMesh:   Input: 160 Clusters, 20100 Triangles and 16487 Vertices
+[2022.09.16-16.49.55:634][ 65]LogStaticMesh:   Output without splits: 160 Clusters, 20100 Triangles and 16569 Vertices
+[2022.09.16-16.49.55:634][ 65]LogStaticMesh:   Output with splits: 160 Clusters, 20100 Triangles and 16569 Vertices
+[2022.09.16-16.49.55:634][ 65]LogStaticMesh: Material Stats - Unique Materials: 5, Fast Path Clusters: 151, Slow Path Clusters: 9, 1 Material: 25, 2 Materials: 117, 3 Materials: 9, At Least 4 Materials: 9
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh: WritePages:
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh:   Root: GPU size: 31184 bytes. 1 Pages. 31184.000 bytes per page (95.166% utilization).
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh:   Streaming: GPU size: 235180 bytes. 2 Pages. 117590.000 bytes per page (89.714% utilization).
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh:   Page data disk size: 217584 bytes. Fixup data size: 800 bytes.
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh:   Total GPU size: 266364 bytes, Total disk size: 218384 bytes.
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh: Encode [0.02s]
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh: Imposter [0.00s]
+[2022.09.16-16.49.55:636][ 65]LogStaticMesh: Nanite build [0.37s]
+
+[2022.09.16-16.49.55:642][ 65]LogStaticMesh: Built static mesh [0.51s] /Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite.Bromelia2_nanite
+[2022.09.16-16.50.31:435][525]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.16-16.50.31:554][525]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Bromelia_nanite_FoliageType
+[2022.09.16-16.50.31:554][525]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia_nanite_FoliageTypeFD992D334865E03AC77F838290BF43A0.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Bromelia_nanite_FoliageType.uasset'
+[2022.09.16-16.50.31:579][525]AssetCheck: New page: Asset Save: Bromelia_nanite_FoliageType
+[2022.09.16-16.50.31:579][525]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Bromelia_nanite_FoliageType.Bromelia_nanite_FoliageType
+[2022.09.16-16.50.55:682][824]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2022.09.16-16.50.55:790][824]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType
+[2022.09.16-16.50.55:790][824]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia2_nanite_FoliageType3C78CA5F484D2795DB0689A91EBB1B70.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.uasset'
+[2022.09.16-16.50.55:812][824]AssetCheck: New page: Asset Save: Bromelia2_nanite_FoliageType
+[2022.09.16-16.50.55:813][824]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.Bromelia2_nanite_FoliageType
+[2022.09.16-16.51.36:848][367]Cmd: TRANSACTION UNDO
+[2022.09.16-16.51.36:848][367]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.51.40:885][450]Cmd: TRANSACTION UNDO
+[2022.09.16-16.51.40:885][450]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.51.44:209][524]Cmd: TRANSACTION UNDO
+[2022.09.16-16.51.44:209][524]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.51.48:807][597]Cmd: TRANSACTION UNDO
+[2022.09.16-16.51.48:807][597]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.52.02:048][802]Cmd: TRANSACTION UNDO
+[2022.09.16-16.52.02:048][802]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.52.21:533][ 38]Cmd: TRANSACTION UNDO
+[2022.09.16-16.52.21:533][ 38]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.52.47:339][367]Cmd: TRANSACTION UNDO
+[2022.09.16-16.52.47:339][367]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.52.59:273][556]Cmd: TRANSACTION UNDO
+[2022.09.16-16.52.59:273][556]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.53.46:592][131]Cmd: TRANSACTION UNDO
+[2022.09.16-16.53.46:592][131]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.54.06:040][356]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType
+[2022.09.16-16.54.06:041][356]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia2_nanite_FoliageTypeD19791E14A686B9EA271D8946EB7A24F.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.uasset'
+[2022.09.16-16.54.06:063][356]AssetCheck: New page: Asset Save: Bromelia2_nanite_FoliageType
+[2022.09.16-16.54.06:063][356]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.Bromelia2_nanite_FoliageType
+[2022.09.16-16.55.12:016][127]Cmd: TRANSACTION UNDO
+[2022.09.16-16.55.12:016][127]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.55.36:182][425]Cmd: TRANSACTION UNDO
+[2022.09.16-16.55.36:182][425]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.57.18:344][677]Cmd: TRANSACTION UNDO
+[2022.09.16-16.57.18:344][677]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.57.40:042][944]Cmd: TRANSACTION UNDO
+[2022.09.16-16.57.40:042][944]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.57.55:956][171]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType
+[2022.09.16-16.57.55:956][171]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia2_nanite_FoliageType87922F42479D26282A5AF49F3FA554AF.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.uasset'
+[2022.09.16-16.57.55:981][171]AssetCheck: New page: Asset Save: Bromelia2_nanite_FoliageType
+[2022.09.16-16.57.55:981][171]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.Bromelia2_nanite_FoliageType
+[2022.09.16-16.58.10:025][334]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType
+[2022.09.16-16.58.10:026][334]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia2_nanite_FoliageType8C2D80824C1D50870578AFA60EDE29B8.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.uasset'
+[2022.09.16-16.58.10:047][334]AssetCheck: New page: Asset Save: Bromelia2_nanite_FoliageType
+[2022.09.16-16.58.10:047][334]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.Bromelia2_nanite_FoliageType
+[2022.09.16-16.59.38:573][332]Cmd: TRANSACTION UNDO
+[2022.09.16-16.59.38:573][332]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-16.59.39:806][362]Cmd: TRANSACTION UNDO
+[2022.09.16-16.59.39:806][362]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.00.56:773][248]Cmd: TRANSACTION UNDO
+[2022.09.16-17.00.56:773][248]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.01.44:664][836]LogSavePackage: Moving output files for package: /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType
+[2022.09.16-17.01.44:665][836]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia2_nanite_FoliageType3D2FCD784143A995EF67D48295DE62A8.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.uasset'
+[2022.09.16-17.01.44:686][836]AssetCheck: New page: Asset Save: Bromelia2_nanite_FoliageType
+[2022.09.16-17.01.44:686][836]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Cristian/Foliage/Nanite/Bromelia2_nanite_FoliageType.Bromelia2_nanite_FoliageType
+[2022.09.16-17.03.18:798][937]Cmd: TRANSACTION UNDO
+[2022.09.16-17.03.18:798][937]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.03.19:169][940]Cmd: TRANSACTION UNDO
+[2022.09.16-17.03.19:169][940]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.03.19:805][962]Cmd: TRANSACTION UNDO
+[2022.09.16-17.03.19:805][962]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.06.28:782][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.16-17.06.28:888][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Escena_Auto5
+[2022.09.16-17.06.28:889][183]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena_Auto5EB86F7BB4E407F67102C66B3AC62435D.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Maps/Escena_Auto5.umap'
+[2022.09.16-17.06.28:904][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Escena' took 0.146
+[2022.09.16-17.06.28:904][183]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2022.09.16-17.06.28:905][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite] ([1] browsable assets)...
+[2022.09.16-17.06.28:949][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite.Heliconia_nanite]
+[2022.09.16-17.06.28:950][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite]
+[2022.09.16-17.06.28:981][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite_Auto5
+[2022.09.16-17.06.28:981][183]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Heliconia_nanite_Auto5CFE6CDB743CFEACB40DB1EA33A595443.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Plantas/003_HeliconiaLathispata/Heliconia_nanite_Auto5.uasset'
+[2022.09.16-17.06.28:982][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite] ([1] browsable assets)...
+[2022.09.16-17.06.28:999][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite.Begonia_nanite]
+[2022.09.16-17.06.28:999][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite]
+[2022.09.16-17.06.29:124][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite_Auto5
+[2022.09.16-17.06.29:125][183]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Begonia_nanite_Auto520FB4EE6446BE6DC4E5E4B9D565B9586.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Plantas/011_BegoniaLindeyana/Begonia_nanite_Auto5.uasset'
+[2022.09.16-17.06.29:133][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite] ([1] browsable assets)...
+[2022.09.16-17.06.29:158][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite.Bromelia_nanite]
+[2022.09.16-17.06.29:158][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite]
+[2022.09.16-17.06.29:177][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite_Auto5
+[2022.09.16-17.06.29:178][183]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia_nanite_Auto52276A878450173E7250F1E82C5811E0F.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia_nanite_Auto5.uasset'
+[2022.09.16-17.06.29:178][183]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite] ([1] browsable assets)...
+[2022.09.16-17.06.29:194][183]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite.Bromelia2_nanite]
+[2022.09.16-17.06.29:194][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite]
+[2022.09.16-17.06.29:221][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite_Auto5
+[2022.09.16-17.06.29:221][183]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Bromelia2_nanite_Auto5D1C74EA5442EE9DD582FEB893F3E8EA0.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Autosaves/Game/Juanes/SM_Plantas/007_Bromelia/Bromelia2_nanite_Auto5.uasset'
+[2022.09.16-17.06.29:222][183]LogFileHelpers: Auto-saving content packages took 0.317
+[2022.09.16-17.08.45:963][701]Cmd: TRANSACTION UNDO
+[2022.09.16-17.08.45:963][701]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.08.53:908][830]Cmd: TRANSACTION UNDO
+[2022.09.16-17.08.53:908][830]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.08.55:317][854]Cmd: TRANSACTION UNDO
+[2022.09.16-17.08.55:318][854]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.08.57:131][872]Cmd: TRANSACTION UNDO
+[2022.09.16-17.08.57:131][872]LogEditorTransaction: Undo Foliage Editing
+[2022.09.16-17.11.03:311][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.16-17.11.03:419][529]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.16-17.11.03:419][529]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/EscenaD3F490BF4E76C597C4716FB6D545F685.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.16-17.11.03:465][529]AssetCheck: New page: Asset Save: Escena
+[2022.09.16-17.11.03:465][529]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
+[2022.09.16-17.11.06:121][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.09.16-17.11.06:218][563]LogSavePackage: Moving output files for package: /Game/Maps/Escena
+[2022.09.16-17.11.06:218][563]LogSavePackage: Moving '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Saved/Escena6A8F1F8840AF62B384D74DBC86655F44.tmp' to '../../../../../git/Nueva carpeta/GitHub_Repositorio_Sinfonia/Sinfonia/Escena_01/Content/Maps/Escena.umap'
+[2022.09.16-17.11.06:256][563]AssetCheck: New page: Asset Save: Escena
+[2022.09.16-17.11.06:256][563]LogContentValidation: Display: Validating World /Game/Maps/Escena.Escena
