@@ -1,0 +1,14 @@
+2022/09/28-11:15:27.318 4654 Reusing MANIFEST E:/SINFONIA/Repositorio_Sinfonia/Sinfonia/Sinfonia/Escena_01/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/28-11:15:27.319 4654 Recovering log #4
+2022/09/28-11:15:27.319 4654 Reusing old log E:/SINFONIA/Repositorio_Sinfonia/Sinfonia/Sinfonia/Escena_01/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/09/28-11:15:27.520 2608 Level-0 table #8: started
+2022/09/28-11:15:27.577 2608 Level-0 table #8: 829 bytes OK
+2022/09/28-11:15:27.642 2608 Delete type=0 #4
+2022/09/28-11:15:27.642 2608 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/28-11:15:27.643 2608 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\xec\xf5\x8d\xf3\x86(xB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 256 : 0
+2022/09/28-11:15:27.643 2608 Compacting 1@1 + 1@2 files
+2022/09/28-11:15:27.702 2608 Generated table #9@1: 22 keys, 753 bytes
+2022/09/28-11:15:27.702 2608 Compacted 1@1 + 1@2 files => 753 bytes
+2022/09/28-11:15:27.809 2608 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/28-11:15:27.810 2608 Delete type=2 #8
+2022/09/28-11:15:27.811 2608 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\xec\xf5\x8d\xf3\x86(xB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 256 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

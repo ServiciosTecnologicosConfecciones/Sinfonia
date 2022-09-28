@@ -79,3 +79,79 @@
 [0919/110206.406:WARNING:storage_block-inl.h(146)] Failed data load.
 [0919/110206.406:WARNING:storage_block-inl.h(146)] Failed data load.
 [0919/110210.940:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0928/104830.572:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Clave no válida para utilizar en el estado especificado. (0x8009000B)
+[0928/104832.167:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[0928/104832.171:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0928/104832.171:ERROR:entry_impl.cc(1076)] No file for c1030280
+[0928/104832.171:WARNING:storage_block-inl.h(146)] Failed data load.
+[0928/104832.171:WARNING:storage_block-inl.h(146)] Failed data load.
+[0928/104832.171:WARNING:storage_block-inl.h(146)] Failed data load.
+[0928/104832.171:WARNING:storage_block-inl.h(146)] Failed data load.
+[0928/104832.171:ERROR:entry_impl.cc(1076)] No file for c1030282
+[0928/104832.171:WARNING:storage_block-inl.h(146)] Failed data load.
+[0928/104832.172:WARNING:storage_block-inl.h(146)] Failed data load.
+[0928/104832.618:ERROR:entry_impl.cc(998)] Failed to save user data
+[0928/104832.618:ERROR:entry_impl.cc(998)] Failed to save user data
+[0928/104834.173:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/104834.242:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/104834.251:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/104835.710:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/104836.776:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/104919.774:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111228.189:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111240.762:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111244.623:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111245.018:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111412.710:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111412.735:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111412.789:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111412.831:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111450.797:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111450.963:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111458.104:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0928/111458.104:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0928/111458.104:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0928/111458.104:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0928/111458.105:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0928/111510.666:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0928/111510.666:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0928/111510.666:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0928/111510.666:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0928/111510.667:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0928/111515.938:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111526.422:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111528.595:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0928/111528.596:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0928/111528.707:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0928/111528.707:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0928/111543.183:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111543.857:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111543.891:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111544.824:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111545.995:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111548.033:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111548.315:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111548.379:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111549.063:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111549.196:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111549.213:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111549.261:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111559.965:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111603.053:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111603.085:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111611.049:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0928/111612.355:ERROR:ssl_client_socket_impl.cc(959)] handshake failed; returned -1, SSL error code 1, net_error -101
