@@ -31,10 +31,6 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkViconDataStream",
-			"Enabled": true
 		}
 	]
 }
